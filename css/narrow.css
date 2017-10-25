@@ -1,0 +1,136 @@
+/* Chapter 1: Fonts */
+@font-face {
+  font-family: 'GoudyBookletter1911';
+  src: url('../assets/goudybookletter1911-webfont.eot');
+  src: local('â˜º'), 
+     url('../assets/goudybookletter1911-webfont.woff') format('woff'), 
+     url('../assets/goudybookletter1911-webfont.ttf') format('truetype'), 
+     url('../assets/goudybookletter1911-webfont.svg') format('svg'),
+     url('../assets/goudybookletter1911.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+html {
+  height: 100%;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-family: "Helvetica",Helvetica, sans-serif;
+  line-height: 1.8em;
+  font-size: 1.1em;
+  color: #8A8686;
+  text-align: left;
+
+  }
+
+#hello {
+  margin-top: 20%;
+  margin-left: 10%;
+}
+
+#root{
+  
+  margin-bottom: 65%;
+  font-size: 3em;
+  color: #5C5858;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+#root2{
+  
+  margin-bottom: 10%;
+  font-size: 3em;
+  color: #5C5858;
+  font-weight: bold;
+  text-align: center;
+}
+
+a:link {
+  text-decoration: none; /*Supresses underlining, so we can spoof underlining with borders.*/
+  color: #ddd;
+  background-color: inherit;
+  color: #191919;
+
+  }
+
+a:visited {
+  color: #ddd;
+  border-color: #373d43; /* The rationalte here is that visited links should dissapear*/
+  padding: 3px 0px 2px 0px;
+  }
+
+a:hover {
+  text-decoration: none;
+  text-shadow: 0px 0px 15px #CFB4B4;
+  }
+
+li {
+  list-style: none;
+  margin-top: 10px;
+}
+
+
+#wrap {
+   width:100%;
+}
+#left_col {
+   float:left;
+   width:100%;
+   margin-left:25%;
+}
+#right_col {
+   display: none;
+}
+
+#freesoft {
+  width: 90%;
+}
+
+#code1 {
+    margin-left: 2px;
+    margin-right: 2px;
+    border-color: black;
+    width: 100%;
+    line-height: 1.4em;
+    text-align: left;
+    color: black;
+    font-family: "Anonymous Pro", sans-serif;
+    font-size: .6em;
+}
+
+
+.title{
+  margin-top: 10%;
+  width: 90%;
+  line-height: 1.4em;
+}
+
+.authors{
+  margin-top: -2%;
+  width: 90%;
+  font-size: .9em;
+  line-height: 1.4em;
+}
+
+.pub{
+  font-size: .8em;
+  margin-top: -5%;
+  width: 90%;
+}
+
+#inferring{
+  display: none;
+}
+
+#container_photo{
+  margin-top: 300px;
+}

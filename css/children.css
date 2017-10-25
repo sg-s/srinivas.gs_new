@@ -1,0 +1,140 @@
+/* Chapter 1: Fonts */
+@font-face {
+  font-family: 'GoudyBookletter1911';
+  src: url('../assets/goudybookletter1911-webfont.eot');
+  src: local('â˜º'), 
+     url('../../assets/goudybookletter1911-webfont.woff') format('woff'), 
+     url('../../assets/goudybookletter1911-webfont.ttf') format('truetype'), 
+     url('../../assets/goudybookletter1911-webfont.svg') format('svg'),
+     url('../../assets/goudybookletter1911.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+
+html {
+  height: 100%;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+
+body {
+	font-family: "Goudy Bookletter 1911", "GoudyBookletter1911", serif;
+	line-height: 1.7em;
+	font-size: 1.1em;
+	color: #191919;
+	text-align: left;
+
+	/*noise texture generator: http://www.cssmatic.com/noise-texture
+	*/
+	background:#F3F3F3 url(../../assets/white-noise.jpg);
+
+}
+
+#content {
+	background:#F3F3F3 url(../../assets/white-noise.jpg);
+
+  position: relative;
+  width: 720px;
+  margin: 16px auto 16px auto;
+}
+
+h1 {
+	margin-top: 10px;
+}
+
+img {
+	width: 100%;
+}
+
+
+a:link {
+  text-decoration: none; /*Supresses underlining, so we can spoof underlining with borders.*/
+  background-color: inherit;
+  color: #191919;
+  text-shadow: 0px 1px 1px #969090;
+  }
+
+a:visited {
+  color: #742929;
+  }
+
+a:hover {
+  text-decoration: none;
+  text-shadow: 0px 1px 1px #969090;
+  color: #554C4C;
+  }
+
+pre {
+	background-color: #E0DDDD;
+	margin-left: 5px;
+	margin-right: 5px;
+	border-radius: 5px;
+	width: 100%;
+}
+
+pre,code {
+	font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+ 	font-size: 1em;
+ 	padding-left: 20px;
+ 	padding-right: 20px;
+ 	padding-top: 5px;
+ 	padding-bottom: 5px;
+ 	display: inline-block;
+}
+
+h3{
+  padding-top: 50px;
+}
+
+/* h6 is used to fake a center align*/
+h6 {
+  font-family: "Helvetica",Helvetica, sans-serif;
+  color: white;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+  text-shadow: 1px 1px 1px  #969090;
+  background:#A51818 url(red-noise.png);
+}
+
+
+/*this bit of awesomeness comes from:
+http://hartshorne.ca/2005/07/27/footnotes_v_sidenotes/*/
+
+.sidenote {
+  display: block;
+  font-size: 12px;
+  line-height: 1.4em;
+  margin-right: -200px;
+  padding: 5px;
+  position: absolute;
+  right: 0;
+  top: auto;
+  width: 160px;
+  font-family: "Helvetica", Helvetica, sans-serif;
+  color: #696060;
+}
+
+.leftnote {
+  left: 0;
+  margin-left: -200px;
+  margin-right: auto;
+  right: auto;
+  text-align: right;
+}
+
+@media only screen and (max-width: 980px) {
+
+  .sidenote, .leftnote {
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    right: auto;
+  }
+
+}

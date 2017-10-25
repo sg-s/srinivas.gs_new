@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/srinivas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://srinivas.gs
+  * I am srinivas (https://keybase.io/srinivas) on keybase.
+  * I have a public key with fingerprint 88C6 D016 6B09 8880 6BF8  F253 8C9C B698 D193 4604
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "88c6d0166b0988806bf8f2538c9cb698d1934604",
+            "host": "keybase.io",
+            "key_id": "8c9cb698d1934604",
+            "kid": "010194938a071e70626903f44fd9a4197facb083d7c361128cc00bef01f3dba834460a",
+            "uid": "d1007fcf58ad27f70fcf03e4d1f0d500",
+            "username": "srinivas"
+        },
+        "service": {
+            "hostname": "srinivas.gs",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1421140443,
+    "expire_in": 157680000,
+    "prev": "1c524cd7d6edc4e37e93f7464d7b416ae18448e83cfda1d66fe27d73d1852de9",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFlkltIFFEYx9ey24IlEQUpUZOZD5ucM3N25sxWVg9GEQSRhUW1zsw5Zx03Z7bZ
+8ZZJYL20BW1q5IOJRUJgmg9dKWgLaZGotAsY9pDJBt1vGEFQnZF6qfNyzvm+//93
+zvfxJXOm+vxZxzqutA+3rs/Ouvda95VdGhtrFHSbNAihRiFKJzdmWhHqxBzTcoWQ
+gLEhEwBlWQcqxhjIOsNMDErYUA1dVjGBqoRkgISAUGnHPQfH6FqcFps2j/FL2CQe
+5399dDIBIIAqUiWsAQVSBciirAKJIcSIqiGoKkwzdIAlohiSDKGIDQMAnTIAmUR0
+DUuI4zSOq5nEEQiAwgwWxBoRFaYAfgYSRQQyQIIAeMI4dSytmnJ1nFdp1mpxoSkg
+8GitaVCvBV4l/yiKI3FujTm2axv2Xp6odN1YyPO5DTFPWEf18B9EWDctwrvIDbXU
+iZu2JYQgVxqu6TEhEiFEACEpIND6mOnQsOkpgoqMAV/eM7SWI6ERFJFBFCJTYiAq
+KVSVmIJkRBQdQVmjECOEKZYMRjRIZJlRUSGKRCAOioSqglfUPssWQiL/phbxyjEj
+lubWOFRo8vuOZOVn+7L8vunTpniT4PPPyv07Hs2JGT+L3qC393N9Jck78avbtxU/
+HSxtc/NPfmut/pIs7WfzquQ15rJU1cKygXUwf+ac7+jrpwM7rIefkzlD0fHBq9cK
+M+Vjd/de1OZW98aaB0pTesuefiEwcaP1xKMl5+p++Su7ox+edZZXXX7bUjQxtCJ9
+0C5/fuHoA7ba3rYWrm27lepubO5KZNacXVmypLWscLvQVHImeb5kS0PF8faldZnU
++JP3IiisWDWaV/5ucbrg5fK6xCs9M3tn3wa289DhRfOzE9HrHR31x3ddWr7/UMHI
+aFf7qc2xnmWdC3o3uRt78kamPs77dDrnwuabQ4EXP7Y6fddbZn28/TQRSu+uTw2r
+X9KjvwE=
+=Ms1p
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/srinivas
+
+==================================================================

@@ -1,0 +1,539 @@
+/* This is the CSS stylesheet for http://srinivas.gs
+created by G S Srinivas ( http://srinivas.gs ) @ 20:31 on Thursday the 27th of January, 2011
+
+-- License --
+No license. Public Domain. Copy, improve, and pass on.
+
+-- Credits and thanks to -- 
+1) font-face code thanks to http://nicewebtype.com/notes/2009/10/30/how-to-use-css-font-face/ 
+2) As for the font, that's thanks to the League of Moveable Type
+http://www.theleagueofmoveabletype.com/fonts/8-goudy-bookletter-1911
+3) Loosely inspired by the design of http://daringfireball.net by John Gruber
+
+-- Contents -- 
+
+1. Fonts ----------------
+2. Basic Structure-------
+3. Class Specifications -
+4. ID definitions -------
+
+*/
+
+/* Chapter 1: Fonts */
+@font-face {
+	font-family: 'GoudyBookletter1911';
+	src: url('../assets/goudybookletter1911-webfont.eot');
+	src: local('☺'), 
+		 url('../assets/goudybookletter1911-webfont.woff') format('woff'), 
+		 url('../assets/goudybookletter1911-webfont.ttf') format('truetype'), 
+		 url('../assets/goudybookletter1911-webfont.svg') format('svg'),
+		 url('../assets/goudybookletter1911.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+html {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Chapter 2: Basic Structural Definitions */
+/*Basic body definitions. How this is structued: everything is held centrerd by the box, and stuff
+goes inside it.*/
+/*First, let's do the handle specifiers */
+dl	{
+	margin-left:80px; /* This specified the left margin of the body text*/	
+	}
+dd p {
+	width: 450px; /* This specifies the width of the main text column*/
+	font-size: 1.1em;
+	margin-left: 20px;
+	
+	}
+body {
+	font-family: "Goudy Bookletter 1911", "GoudyBookletter1911", serif;
+	line-height: 1.8em;
+	color: #fff;
+	/*background-color: #4a525a; /* Daring Fireball's colour */
+	background-color:#373d43;
+	background: #474747 url(../assets/bg.png);
+	text-align: center;
+	text-shadow: 0px 2px 3px #555;
+	}
+
+.infrared {
+	opacity: 0;
+	/*for the weird people who use IE*/
+	filter: alpha(opacity = 0);
+	zoom: 1;
+	position: absolute;
+	left: 100px; /*force offscreen*/
+	}
+
+.infraredp {
+	opacity: 0;
+	/*for the weird people who use IE*/
+	filter: alpha(opacity = 0);
+	zoom: 1;
+	position: absolute;
+	left: 100px;
+	}
+	
+
+a:link {
+	text-decoration: none; /*Supresses underlining, so we can spoof underlining with borders.*/
+	color: #ddd;
+	border-color: #888;
+	border-width: 0 0 1px 0; /*Here, spoofing underlining*/
+	border-style: none none solid none;
+	padding: 3px 0px 2px 0px;
+	background-color: inherit;
+	}
+
+a:visited {
+	color: #ddd;
+	border-color: #373d43; /* The rationalte here is that visited links should dissapear*/
+	padding: 3px 0px 2px 0px;
+	}
+
+a:hover {
+	text-decoration: none;
+	border-color: #606870;
+	//background:  url(../assets/bg_dar.png);
+	}
+	
+dl + h2{
+	margin: 5em 0 2em 0;
+	}
+/* Chapter 3: Class specifications  */
+.flowtext { 
+	line-height: 1.6em; /* The perfect line height. Actually, browser setting can screw this up*/
+	}
+	
+
+.flowtext Essay { //Essay is the name of the class for essays
+	text-align: center;
+	text-transform: uppercase;
+	margin-left: 70px;
+	margin:top: 200px; /*The minimal design needs breathing space*/
+	font-size: 2em; /* Smaller than header, bigger than main text*/
+	}
+
+.flowtext EssayTitle a{
+	text-align: center;
+	text-transform: uppercase;
+	margin-left: 70px;
+	margin:top: 200px; /*The minimal design needs breathing space*/
+	font-size: 2em; /* Smaller than header, bigger than main text*/
+	}
+	
+.flowtext EssayTitle h1{
+	width: 450px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 2em; /* Smaller than header, bigger than main text*/
+	}
+
+
+.flowtext EssayTitle a:hover {
+	text: black; 
+	text-decoration: none;
+	/*background-color: #373d43;*/
+
+
+	}
+	
+	
+h2.SubTitle {
+	text-decoration: none;
+	text-align: left;
+	font-size: 1.5em;
+	margin-top: 20px;
+	width: 500px;
+	line-height: 1.2em;
+	font-weight: normal;
+
+	}
+	
+.flowtext dd {
+	margin: 300px auto 2em 1em; /* We force the main text to appear below the header. A hack, I know*/
+	}
+.flowtext p {
+	margin-top: 30px;
+	line-height: 1.8em;
+	text-indent: 1.5em;
+	letter-spacing: 0px;
+	}
+	
+	
+.flowtext pcap { 
+	margin-left:0px;
+	font-size:0.7em;
+	font-family: "Helvetica", sans-serif;
+	width: 80px;
+	line-height: 1.2em;
+	letter-spacing:1px;  /* For some weird reason, this doesn't work*/
+
+	}
+
+/* Chapter 4: ID definitons   */
+#copyfooter {
+	background: url(../assets/dark.png);
+	 -moz-box-shadow:inset 0 0 10px #111;
+	 -webkit-box-shadow:inset 0 0 10px #111;
+	box-shadow:inset 0 0 10px #111;
+	padding: 20px 20px 20px 20px;
+	font-family: "Helvetica", sans-serif;
+	font-size: 0.7em;
+	shadow: 
+	}
+#EssayFooter {
+	text-align: center;
+	}
+.flowtext img {
+	margin-left: 20px;
+	border-style:solid;
+	border-width:5px;
+	}
+
+
+/* Photo Page specifications....*/
+
+
+	
+.flowphoto dd {
+	margin: 300px auto 2em -90px; /* We force the main text to appear below the header. A hack, I know*/
+	}
+	
+.flowphoto Essay {
+	text-align: center;
+	text-transform: uppercase;
+	margin-left: 70px;
+	margin:top: 200px; /*The minimal design needs breathing space*/
+	font-size: 2em; /* Smaller than header, bigger than main text*/
+	}
+
+.flowphoto EssayTitle a{
+	text-align: center;
+	text-transform: uppercase;
+	margin-left: 270px;
+	margin:top: 200px; /*The minimal design needs breathing space*/
+	font-size: 2em; /* Smaller than header, bigger than main text*/
+	}
+	
+.flowphoto EssayTitle h1{
+	text-align: center;
+	text-transform: uppercase;
+	width: 750px;
+	font-size: 2em; /* Smaller than header, bigger than main text*/
+	}
+.flowphoto EssayTitle a:hover {
+	text-decoration: none;
+
+
+	}
+.flowphoto p {
+	margin-top: 0px;
+	margin-left: 40px;
+	margin-bottom: 60px;
+	line-height: 1.6em;
+	text-indent: 0em;
+	width: 700px;
+	}
+	
+	
+p.vertcap { 
+	margin-left: 500px;
+	margin-top: 30px; /*hack, need the photo sizes to be the same*/
+	text-indent: 0em;
+	width: 250px;
+	text-align: left;
+	line-height: 1.6em;
+
+	}
+	
+img.vert {
+	float:left;
+	position: relative;
+	top: -130px;
+	border-style:solid;
+	border-width:5px;
+	width: 450px;
+	
+	}
+
+	
+.flowphoto footer {   /*There shall be a footer at the...um...footer of each page.*/
+	margin-left:100px;
+	font-size:0.7em;
+	font-family: "Helvetica", sans-serif;
+	width: 380px;
+	line-height: 1.2em;
+	letter-spacing:1px;
+	background: #535c65;
+	border-width: 20px;
+	border-style: solid;
+	border-color: #535c65;
+	}
+	
+footer.flowphoto  {   /*There shall be a footer at the...um...footer of each page.*/
+	margin-left:100px;
+	font-size:0.7em;
+	font-family: "Helvetica", sans-serif;
+	width: 380px;
+	line-height: 1.2em;
+	letter-spacing:1px;
+	background: #535c65;
+	border-width: 20px;
+	border-style: solid;
+	border-color: #535c65;
+	}
+	
+.flowphoto img {
+	margin-left: 20px;
+	border-style:solid;
+	border-width:5px;
+	}
+.flowphoto ul {
+	margin: 0 0 1em .5em;
+	}
+	
+/* We have a separate class for science-related stuff because it's differently styled*/
+
+.flowscience dd {
+	margin: 300px auto 2em -90px; /* We force the main text to appear below the header. A hack, I know*/
+	}
+	
+.flowscience PaperTitle {
+	text-align: left;
+	margin-left: 30px;
+	font-size: 1.5em; /* Smaller than header, bigger than main text*/
+	}
+	
+.flowscience Author {
+	text-align: left;
+	margin-left: 30px;
+	}
+	
+.flowscience Abstract {
+	text-align: left;
+	margin-left: 30px;
+	}
+	
+.flowscience Paper {
+	text-align: left;
+	margin-left: 30px;
+	}
+	
+
+	
+img.nobor {
+	border-style: none;
+	}
+
+#PDF {
+	font-family: "Helvetica","HelveticaNeue", sans-serif;
+	position: relative;
+	font-style: Bold;
+	font-size: 0.7em;
+	top: -4px;
+	left: 20px;
+	border-width: 0px;
+	padding: 5px;
+	font-weight: bold;
+	background-color: transparent;
+	background: #333;
+	
+	}
+	
+#PDF a{
+	text-decoration: none;
+	font-style: Bold;
+	font-size: 0.7em;
+	top: -4px;
+	left: 20px;
+	font-weight: bold;
+	
+	padding: 5px;
+	
+	}
+	
+#PDF a:hover {
+	background: #000;
+	padding: 5px;
+
+	}
+/*So let's specify the box. remember, the box is the centering element, and everything lives inside it */
+#Box {
+	border: 0;
+	width: 720px;
+	height: auto;
+	margin: 0 auto 0 auto;
+	padding: 0;
+	text-align: left;
+	}
+/* Here, we specify the title propoerties */
+#Title {
+	position: absolute;
+	top:100px;
+	width: 300px;
+	font-size: 5em;
+	height: auto;
+	border: 0px dotted #606870;
+	padding: 0;
+	margin: 59px 12px 69px 41px;
+	text-align: left;
+	background-color: transparent;
+	line-height: 0px;
+	text-decoration: none;
+	text-shadow: 0px 3px 8px #2a2a2a;
+	letter-spacing: 2px;
+	
+	}
+#Title a {
+	border-width: 0px;
+	text-decoration: none;
+	color: #191919;
+	text-shadow: 0px 2px 3px #555;
+	}
+
+#Title a:hover {
+	padding: 4px 0px 4px 0px;
+	text-decoration: none;
+	//background:  url(../assets/dark.png);
+	color: black;
+	text-shadow: 0px 0px 140px #adadad;
+	}
+	
+#Title2 {
+	position: absolute;
+	top:100px;
+	width: 300px;
+	font-size: 5em;
+	height: auto;
+	border: 0px dotted #606870;
+	padding: 0;
+	margin: 59px 12px 69px 375px;
+	text-align: left;
+	background-color: transparent;
+	line-height: 0px;
+	text-decoration: none;
+	text-shadow: 0px 3px 8px #2a2a2a;
+	letter-spacing: 2px;
+	
+	}
+#Title2 a {
+	border-width: 0px;
+	text-decoration: none;
+	color: #191919;
+	text-shadow: 0px 2px 3px #555;
+	}
+
+#Title2 a:hover {
+	padding: 4px 0px 4px 0px;
+	text-decoration: none;
+	//background:  url(../assets/dark.png);
+	color: black;
+	text-shadow: 0px 0px 140px #adadad;
+	}
+	
+#SpamBait {
+	opacity: 0;
+	}
+#SpamBait2 {
+	letter-spacing: -10px;
+
+	position: absolute;
+	top: 144px;
+	margin-left: 374px;
+	width: 350px;
+	font-size: 5em;
+	height: auto;
+	padding: 0;
+	text-align: left;
+	background-color: transparent;
+
+	}
+/*OK, got the title all worked out. Now, let's position and specify the Navlists.*/
+
+/* FRONT PAGE: NAV LISTS (ALSO USED IN OTHER PAGES LIKE /ESSAYS) */
+#NavList {
+	position: absolute;
+	top: 200px;
+	margin: 0 0 0 100px;
+	width: auto;
+	height: auto;
+	padding: 5px 0 0 0;
+	background-color: #transparent;
+	
+	text-align: right;
+	line-height: 1em;
+	font-family: "Goudy Bookletter 1911",serif;
+	}
+/*This styles the list items, removes the bullets, etcc.*/	
+#NavList li {
+	list-style: none;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	margin: 0 0 1em 0; /*This is the vertical spacing of list items*/
+	}
+/*Now, we don't want the list items underlined*/	
+#NavList  a { /*these are links*/
+	color: #191919;
+	text-decoration: none;
+	text-shadow: 0px 2px 3px #555;
+	font-family: Helvetica;
+	border-style: none;
+	}
+	
+#NavList a:hover {
+	padding: 4px 0px 4px 0px;
+	text-decoration: none;
+	//background: #4a4a4a;
+	color: black;
+	text-shadow: 0px 0px 15px #bfbfbf;
+	border-style: none;
+	}
+
+#NavList2 {
+	position: absolute;
+	
+	top: 200px;
+	margin: 0px 0px 0px 280px;
+	width: auto;
+	height: auto;
+	padding: 5px 0 0 0;
+	background-color: #transparent;
+	text-align: left;
+	line-height: 1em;
+	font-family: "Helvetica",sans-serif;
+	
+
+	}
+/*This styles the list items, removes the bullets, etcc.*/	
+#NavList2 li {
+	list-style: none;
+	color: #191919;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	margin: 0 0 1em 0;
+	padding: 0;
+	font-family: Helvetica;
+	}
+/*Now, we don't want the list items underlined*/	
+#NavList2  a { /*This specifies the size of the hover box*/
+	color: #191919;
+	text-decoration: none;
+	text-shadow: 0px 2px 3px #555;
+	font-family: Helvetica;
+	border-style: none;
+	}
+	
+#NavList2 a:hover {
+	padding: 4px 0px 4px 0px;
+	text-decoration: none;
+	//background: #4a4a4a;
+	color: black;
+	text-shadow: 0px 0px 15px #bfbfbf;
+	border-style: none;
+	}
+
