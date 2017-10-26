@@ -7,6 +7,7 @@
 
 <video width="650" height="254" autoplay loop>
   <source src="assets/xolotl.mp4" type="video/mp4">
+  <source src="assets/xolotl.webm" type="video/webm">
 Your browser does not support the video tag.
 </video>
 
