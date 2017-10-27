@@ -14,4 +14,8 @@
 
 ![](./assets/knowledge.png)
 
+## Lines of code written
 
+![](./assets/loc.png)
+
+Clearly I have a problem, and its name is MATLAB. 
