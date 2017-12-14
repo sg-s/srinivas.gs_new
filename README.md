@@ -12,8 +12,6 @@ Your browser does not support the video tag.
 </video>
 
 
-<!-- ![](./assets/code.gif) -->
-
 
 * [xolotl](https://github.com/sg-s/xolotl):
 A fast (written in C++), flexible (fully object oriented) and immediate (live manipulation in MATLAB) neuron and network simulator. 
@@ -194,5 +192,5 @@ You can verify this using
 You can send me a encrypted message even if you don't know how to use encryption: [click here](https://hawkpost.co/box/6565b695-4f56-4a3a-9075-1b83ff19c026) to do so. 
 
 # About this website
-This page is written in [markdown](https://daringfireball.net/projects/markdown/) using [Sublime Text 3](http://www.sublimetext.com/). The markdown source is [here](./README.md) and the entire repository is available [here](https://github.com/sg-s/srinivas.gs). Most pages are rendered from markdown source. The font used here is [Goudy Bookletter 1911](https://www.theleagueofmoveabletype.com/goudy-bookletter-1911) and is in the public domain. This website is hosted on [GitHub](https://github.com/sg-s/srinivas.gs) servers.
+This page is written in [markdown](https://daringfireball.net/projects/markdown/) using [Sublime Text 3](http://www.sublimetext.com/). The markdown source is [here](./README.md) and the entire repository is available [here](https://github.com/sg-s/srinivas.gs). Most pages are rendered from markdown source. The font used here is [Goudy Bookletter 1911](https://www.theleagueofmoveabletype.com/goudy-bookletter-1911) and is in the public domain. This website is hosted on [Gitlab](https://gitlab.com/sg-s/srinivas.gs) servers.
 
