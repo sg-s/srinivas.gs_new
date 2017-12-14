@@ -20,12 +20,14 @@ for path in all_paths:
 	# make the html from README.md
 	input_file = codecs.open(path, mode="r", encoding="utf-8")
 	text = input_file.read()
-	html = markdown.markdown(text)
+	html = markdown.markdown(text, ['markdown.extensions.extra'])
 
+	html = html.replace('<table>','<table id="example" class="display" cellspacing="0" width="80%">')
 
 	output_file = codecs.open(path.replace('README.md','body.html'), "w", encoding="utf-8")
 	output_file.write(html)
 	output_file.close()
+
 
 	# cat the header and body and footer
 	filenames = ['header.html', 'body.html', 'footer.html']

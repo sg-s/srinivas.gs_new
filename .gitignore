@@ -1,3 +1,6 @@
 *.key
 *DS_Store
 *sublime-workspace
+*.mov
+*.xlsx
+*.xls
