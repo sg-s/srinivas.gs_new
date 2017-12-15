@@ -5,7 +5,7 @@ pages:
   - cp -r * .public
   - mv .public public
   - mkdir -p public/.well-known/acme-challenge/
-  - cp key.test public/.well-known/acme-challenge/
+  - cp a9mzgWJ_P7L3dO7hogYcVIM3VnVPeLi8hD1KdEVRYzo public/.well-known/acme-challenge/
   artifacts:
     paths:
     - public
