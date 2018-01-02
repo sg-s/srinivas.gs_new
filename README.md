@@ -70,7 +70,7 @@ Tong-Wey Koh, Zhe He, Srinivas Gorur-Shandilya, Karen Menuz, Nikki K. Larter, Sh
 
 Srinivas Gorur-Shandilya and Marc Timme
 
-[New Journal of Physics 2010](http://iopscience.iop.org/1367-2630/13/1/013004) | [direct link](assets/srinivas.gs.inferring.pdf)
+[New Journal of Physics 2010](http://iopscience.iop.org/1367-2630/13/1/013004) | [direct link](assets/srinivas.gs.inferring.pdf) | [code](https://github.com/sg-s/srinivas.gs/tree/master/assets/inferring-network-topology-code)
 
 ### Relating Topology and Dynamics in Neuronal Networks
 
