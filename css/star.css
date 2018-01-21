@@ -320,6 +320,18 @@ http://hartshorne.ca/2005/07/27/footnotes_v_sidenotes/*/
   width: 149px;
 }
 
+#label a{
+  background-color: #d60000;
+  font-family: "Helvetica";
+  font-weight: bold;
+  color: white;
+  font-size: .3 em;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 5px;
+  text-shadow: 2px 2px 2px #969090;
+}
+
 /*
 iPad-specific hacks
 */

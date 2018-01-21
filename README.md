@@ -73,7 +73,13 @@ Tong-Wey Koh, Zhe He, Srinivas Gorur-Shandilya, Karen Menuz, Nikki K. Larter, Sh
 
 [Neuron 2013](http://www.sciencedirect.com/science/article/pii/S0896627314006230)
 
-### Inferring network topology from complex dynamics 
+
+ 
+
+
+### Inferring network topology from complex dynamics   
+
+<div class = "sidenote leftnote"><span id = "label"><a href = "https://scholar.google.com/citations?user=lTu-VxIAAAAJ"> 100+ citations </a> </span></div> 
 
 Srinivas Gorur-Shandilya and Marc Timme
 
