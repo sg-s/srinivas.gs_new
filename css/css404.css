@@ -58,38 +58,7 @@ a:hover {
 	border-color: #606870;
 	/*background:  url(../assets/dark.png);*/
 	}
-	
-/*Class specifications*/
-.flowtext {
-	line-height: 1.6em; /* The perfect line height. Actually, browser setting can screw this up*/
-	}
-	
-dl + h2{
-	margin: 5em 0 2em 0;
-	}
-.flowtext Essay {
-	text-align: center;
-	text-transform: uppercase;
-	margin-left: 70px;
-	margin:top: 200px; /*The minimal design needs breathing space*/
-	font-size: 2em; /* Smaller than header, bigger than main text*/
-	}
 
-.flowtext EssayTitle a{
-	text-align: center;
-	text-transform: uppercase;
-	margin-left: 70px;
-	margin:top: 200px; /*The minimal design needs breathing space*/
-	font-size: 2em; /* Smaller than header, bigger than main text*/
-	}
-
-.flowtext EssayTitle a:hover {
-
-	text-decoration: none;
-	/*background-color: #373d43;*/
-
-
-	}
 	
 	
 h2.SubTitle {
@@ -103,26 +72,7 @@ h2.SubTitle {
 
 	}
 	
-.flowtext dd {
-	margin: 300px auto 2em 1em; /* We force the main text to appear below the header. A hack, I know*/
-	}
-.flowtext p {
-	margin-top: 30px;
-	line-height: 1.8em;
-	text-indent: 1.5em;
-	letter-spacing: 0px;
-	}
-	
-	
-.flowtext pcap { 
-	margin-left:0px;
-	font-size:0.7em;
-	font-family: "Helvetica", sans-serif;
-	width: 80px;
-	line-height: 1.2em;
-	letter-spacing:1px;  /* For some weird reason, this doesn't work*/
 
-	}
 
 #copyfooter {
 	background: url(../assets/dark.png);
@@ -137,224 +87,10 @@ h2.SubTitle {
 #EssayFooter {
 	text-align: center;
 	}
-.flowtext img {
-	margin-left: 20px;
-	border-style:solid;
-	border-width:5px;
-	}
-.flowtext ul {
-	margin: 0 0 1em .5em;
-	}
-.flowtext ol {
-	margin: 0 0 1em .5em;
-	}
-.flowtext blockquote {
-	margin: 0 3em 0 0;
-	font-size: 1em;
-	padding: 0 .75em 0 1em;
-	border-left: 1px solid #777;
-	border-right: 0px solid #777;
-	color: #ddd;
-	}
-.flowtext blockquote a {
-	color: #ccc;
-	}
-.flowtext blockquote ol {
-	margin-left: 10px;
-	}
-.flowtext blockquote ul {
-	margin-left: 10px;
-	}
-
-.flowtext + .smallprint {
-	margin-top: 150px;
-	}
-.flowtext + .article {
-	margin-top: 100px;
-	}
 
 
 
-.flowtext a.permalink, a.permalink {
-	color: #606870;
-	border: 0;
-	padding: 3px;
-	margin-left: .5em;
-	font-family: "Hiragino Kaku Gothic Pro", "Osaka", "Zapf Dingbats";
-	}
 
-/* Photo Page specifications....*/
-
-
-	
-.flowphoto dd {
-	margin: 300px auto 2em -90px; /* We force the main text to appear below the header. A hack, I know*/
-	}
-	
-.flowphoto Essay {
-	text-align: center;
-	text-transform: uppercase;
-	margin-left: 70px;
-	margin:top: 200px; /*The minimal design needs breathing space*/
-	font-size: 2em; /* Smaller than header, bigger than main text*/
-	}
-
-.flowphoto EssayTitle a{
-	text-align: center;
-	text-transform: uppercase;
-	margin-left: 270px;
-	margin:top: 200px; /*The minimal design needs breathing space*/
-	font-size: 2em; /* Smaller than header, bigger than main text*/
-	}
-.flowphoto EssayTitle a:hover {
-	text-decoration: none;
-
-
-	}
-.flowphoto p {
-	margin-top: 0px;
-	margin-left: 40px;
-	margin-bottom: 60px;
-	line-height: 1.6em;
-	text-indent: 0em;
-	width: 700px;
-	}
-	
-	
-p.vertcap { 
-	margin-left: 500px;
-	margin-top: 30px; /*hack, need the photo sizes to be the same*/
-	text-indent: 0em;
-	width: 250px;
-	text-align: left;
-	line-height: 1.6em;
-
-	}
-	
-img.vert {
-	float:left;
-	position: relative;
-	top: -130px;
-	border-style:solid;
-	border-width:5px;
-	width: 450px;
-	
-	}
-
-	
-.flowphoto footer {   /*There shall be a footer at the...um...footer of each page.*/
-	margin-left:100px;
-	font-size:0.7em;
-	font-family: "Helvetica", sans-serif;
-	width: 380px;
-	line-height: 1.2em;
-	letter-spacing:1px;
-	background: #535c65;
-	border-width: 20px;
-	border-style: solid;
-	border-color: #535c65;
-	}
-	
-footer.flowphoto  {   /*There shall be a footer at the...um...footer of each page.*/
-	margin-left:100px;
-	font-size:0.7em;
-	font-family: "Helvetica", sans-serif;
-	width: 380px;
-	line-height: 1.2em;
-	letter-spacing:1px;
-	background: #535c65;
-	border-width: 20px;
-	border-style: solid;
-	border-color: #535c65;
-	}
-	
-.flowphoto img {
-	margin-left: 20px;
-	border-style:solid;
-	border-width:5px;
-	}
-.flowphoto ul {
-	margin: 0 0 1em .5em;
-	}
-	
-/* We have a separate class for science-related stuff because it's differently styled*/
-
-.flowscience dd {
-	margin: 300px auto 2em -90px; /* We force the main text to appear below the header. A hack, I know*/
-	}
-	
-.flowscience PaperTitle {
-	text-align: left;
-	margin-left: 30px;
-	font-size: 1.5em; /* Smaller than header, bigger than main text*/
-	}
-	
-.flowscience Author {
-	text-align: left;
-	margin-left: 30px;
-	}
-	
-.flowscience Abstract {
-	text-align: left;
-	margin-left: 30px;
-	}
-	
-.flowscience Paper {
-	text-align: left;
-	margin-left: 30px;
-	}
-	
-
-	
-img.nobor {
-	border-style: none;
-	}
-img.four04 {
-	border-style: none;
-	margin-top: 50px;
-	margin-left: -50px;
-	}
-#PDF {
-	font-family: "Helvetica","HelveticaNeue", sans-serif;
-	position: relative;
-	font-style: Bold;
-	font-size: 0.7em;
-	top: -4px;
-	left: 20px;
-	border-width: 0px;
-	padding: 5px;
-	font-weight: bold;
-	background-color: transparent;
-	background: #333;
-	
-	}
-	
-#PDF a{
-	text-decoration: none;
-	font-style: Bold;
-	font-size: 0.7em;
-	top: -4px;
-	left: 20px;
-	font-weight: bold;
-	
-	padding: 5px;
-	
-	}
-	
-#PDF a:hover {
-	background: #000;
-	padding: 5px;
-
-	}
-/*So let's specify the box. remember, the box is the centering element, and everything lives inside it */
-#Box {
-	border: 0;
-	width: 720px;
-	height: auto;
-	margin: 0 auto 0 auto;
-	padding: 0;
-	text-align: left;
-	}
 /* Here, we specify the title propoerties */
 #Title {
 	position: absolute;
@@ -385,24 +121,7 @@ img.four04 {
 	text-decoration: none;
 	background: #4a4a4a;
 	}
-	
-#SpamBait {
-	opacity: 0;
-	}
-#SpamBait2 {
-	letter-spacing: -10px;
 
-	position: absolute;
-	top: 144px;
-	margin-left: 374px;
-	width: 350px;
-	font-size: 5em;
-	height: auto;
-	padding: 0;
-	text-align: left;
-	background-color: transparent;
-
-	}
 /*OK, got the title all worked out. Now, let's position and specify the Navlists.*/
 
 #NavList {
