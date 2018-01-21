@@ -221,6 +221,9 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 > <br>
 > He dances this way-what happiness! Dances that way-and oh, the pain, the hideous fear, the desolation! Then hop, skip and jump. Hope into perfect health. Skip into cancer and senility. Jump out of the fullness of life into nothingness and out of nothingness back into life. For Nataraja it's all play, and the play is an end in itself, everlastingly purposeless. He dances because he dances, and the dancing his his maha sukha, his infinite and eternal bliss.
 
+## Fredric Jameson
+> It's easier to imagine the end of the world than to imagine the end of capitalism. 
+
 ## Steve Jobs
 [quoted in *The guts of a new machine*](http://www.nytimes.com/2003/11/30/magazine/the-guts-of-a-new-machine.html)
 > Design is not just what it looks like and feels like. Design is how it works.

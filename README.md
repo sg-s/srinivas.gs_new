@@ -39,6 +39,13 @@ All code here is [free software](http://www.fsf.org/about/what-is-free-software)
 <a name = "publications"></a>
 # Publications
 
+
+### Regulation of Eag by calcium/calmodulin controls presynaptic excitability in *Drosophila*
+
+Peter Bronk, Elena Kuklin, Srinivas Gorur-Shandilya, Chang Liu, Timothy Wiggin, Martha Reed, Eve Marder and Leslie Griffith
+
+Journal of Neurophysiology (accepted)
+
 ### Gain control in Drosophila olfactory receptor neurons 
 
 Srinivas Gorur-Shandilya
