@@ -38,14 +38,11 @@
 
 
 [*Conspiracies as Governance*](http://web.archive.org/web/20070829163014/http://iq.org/conspiracies.pdf)
-> What advances us a civilisation is the entirety of our historical record…And if we are to make rational policy decisions, insofar as any decision can be rational, then we have to have information that is drawn from the real world, in a description of the real world. And at the moment, we are severely lacking in the information from the interior of big secretive organizations that have such a role in shaping how civilization evolves and how we all live.      
+> What advances us a civilisation is the entirety of our historical record…And if we are to make rational policy decisions, insofar as any decision can be rational, then we have to have information that is drawn from the real world, in a description of the real world. And at the moment, we are severely lacking in the information from the interior of big secretive organizations that have such a role in shaping how civilization evolves and how we all live.     
+ 
 > Courage is not the absence of fear. Only fools have no fear. 
-Rather, courage is the intellectual mastery of fear by understanding 
-the true risks and opportunities of the situation and keeping those 
-things in balance.
+Rather, courage is the intellectual mastery of fear by understanding the true risks and opportunities of the situation and keeping those things in balance.
 
-> The universe believes in encryption.
-<div class = "sidenote">Which is a reassuring thought, but what happens when we get quantum computers that can break all classical encryption?</div> 
 
 [*Conspiracies as Governance*](http://web.archive.org/web/20070829163014/http://iq.org/conspiracies.pdf)
 <div class = "sidenote">In my opinion, this is probably one of the most important essays written in the recent past.</div>  
