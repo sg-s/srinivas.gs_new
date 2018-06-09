@@ -44,13 +44,13 @@ All code here is [free software](http://www.fsf.org/about/what-is-free-software)
 
 Peter Bronk, Elena Kuklin, Srinivas Gorur-Shandilya, Chang Liu, Timothy Wiggin, Martha Reed, Eve Marder and Leslie Griffith
 
-Journal of Neurophysiology (accepted)
+[Journal of Neurophysiology 2018](https://www.physiology.org/doi/abs/10.1152/jn.00820.2017)
 
 ### Gain control in Drosophila olfactory receptor neurons 
 
 Srinivas Gorur-Shandilya
 
-[Ph.D. thesis](./assets/srinivas.gs_thesis.pdf)
+[Ph.D. thesis (Yale) 2017](./assets/srinivas.gs_thesis.pdf)
 
 ### Olfactory receptor neurons use gain control and complementary kinetics to encode intermittent odorant stimuli
 
@@ -59,7 +59,7 @@ Srinivas Gorur-Shandilya (1), Mahmut Demir (1), Junjiajia Long, Damon A Clark (2
 (1) = equal contribution
 (2) = equal contribution
 
-[eLife 2017](https://elifesciences.org/articles/27670)
+[eLife 2017](https://elifesciences.org/articles/27670) | [pdf](assets/srinivas.gs.elife.pdf)
 
 ### Presynaptic GABA receptors mediate temporal contrast enhancement in *Drosophila* olfactory sensory neurons and modulate odor-driven behavioral kinetics
 
@@ -72,9 +72,6 @@ Davide Raccuglia, Li Yan McCurdy, Mahmut Demir, Srinivas Gorur-Shandilya, Michae
 Tong-Wey Koh, Zhe He, Srinivas Gorur-Shandilya, Karen Menuz, Nikki K. Larter, Shannon Stewart and John R. Carlson
 
 [Neuron 2013](http://www.sciencedirect.com/science/article/pii/S0896627314006230)
-
-
- 
 
 
 ### Inferring network topology from complex dynamics   
@@ -190,7 +187,7 @@ accepted talk at [Sense2Synapse](http://sense2synapse.com/index.html) New York, 
 # Contact me
 
 You can write to &#x202E;.sg.savi&#x202D;me@srin
-
+<!-- 
 You should encrypt all email. Here is my [GPG public key](http://srinivas.gs/sgs.asc) which you can also get from the [MIT key server](http://pgp.mit.edu/pks/lookup?search=srinivas.gs) or on [https://keybase.io/srinivas](https://keybase.io/srinivas). Its fingerprint is 
 
     88C6 D016 6B09 8880 6BF8 
@@ -202,8 +199,8 @@ You can verify this using
     curl srinivas.gs/sgs.asc |
          gpg --with-fingerprint
 
-You can send me a encrypted message even if you don't know how to use encryption: [click here](https://hawkpost.co/box/6565b695-4f56-4a3a-9075-1b83ff19c026) to do so. 
+You can send me a encrypted message even if you don't know how to use encryption: [click here](https://hawkpost.co/box/6565b695-4f56-4a3a-9075-1b83ff19c026) to do so.  -->
 
 # About this website
-This page is written in [markdown](https://daringfireball.net/projects/markdown/) using [Sublime Text 3](http://www.sublimetext.com/). The markdown source is [here](./README.md) and the entire repository is available [here](https://github.com/sg-s/srinivas.gs). Most pages are rendered from markdown source. The font used here is [Goudy Bookletter 1911](https://www.theleagueofmoveabletype.com/goudy-bookletter-1911) and is in the public domain. This website is hosted on [Gitlab](https://gitlab.com/sg-s/srinivas.gs) servers.
+This page is written in [markdown](https://daringfireball.net/projects/markdown/) using [Sublime Text 3](http://www.sublimetext.com/). The markdown source is [here](./README.md) and the entire repository is available [here](https://github.com/sg-s/srinivas.gs). Most pages are rendered from markdown source. The font used here is [Goudy Bookletter 1911](https://www.theleagueofmoveabletype.com/goudy-bookletter-1911) and is in the public domain. This website is hosted on [Github](https://github.com/sg-s/srinivas.gs) servers.
 
