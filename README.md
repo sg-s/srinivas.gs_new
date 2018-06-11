@@ -32,7 +32,7 @@ Automated fly courtship behaviour tracking and scoring
 
 All code here is [free software](http://www.fsf.org/about/what-is-free-software). You can install any of these packages directly from your MATLAB prompt using my package manager:
             
-    urlwrite('http://srinivas.gs/...
+    urlwrite('https://srinivas.gs/...
         install.m','install.m'); 
     install sg-s/xolotl
 
