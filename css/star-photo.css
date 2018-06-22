@@ -242,6 +242,8 @@ http://hartshorne.ca/2005/07/27/footnotes_v_sidenotes/*/
 }
 
 .item img {
+  margin-top: 0px;
+  margin-bottom: 0px;
   width: 100%;
   height: 100%;
   -moz-box-shadow: 0 0 20px #111;
