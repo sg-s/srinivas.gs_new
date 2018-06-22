@@ -56,6 +56,8 @@ h1 {
 }
 
 img {
+  margin-top: 20px;
+  margin-bottom: 20px;
 	width: 100%;
   -moz-box-shadow: 0 0 20px #111;
    -webkit-box-shadow: 0 0 20px #111;
@@ -131,8 +133,13 @@ http://hartshorne.ca/2005/07/27/footnotes_v_sidenotes/*/
 #narrow {
 /*  background:#F3F3F3 url(./assets/dark-noise.png);*/
   position: relative;
-  width: 50%;
+  width: 70%;
   margin: 16px auto 16px auto;
+}
+
+#narrow p{
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 #top-content{
