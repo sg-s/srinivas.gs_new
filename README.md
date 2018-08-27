@@ -38,6 +38,13 @@ All code here is [free software](http://www.fsf.org/about/what-is-free-software)
 <a name = "publications"></a>
 # Publications
 
+### Xolotl: An Intuitive and Approachable Neuron and Network Simulator for Research and Teaching
+
+Srinivas Gorur-Shandilya (1), Alec Hoyland (1) and Eve Marder. 
+
+[bioRxiv](https://www.biorxiv.org/content/early/2018/08/18/394973) | [code](https://github.com/sg-s/xolotl)
+
+(1) = equal contribution
 
 ### Regulation of Eag by calcium/calmodulin controls presynaptic excitability in *Drosophila*
 
@@ -58,7 +65,7 @@ Srinivas Gorur-Shandilya (1), Mahmut Demir (1), Junjiajia Long, Damon A Clark (2
 (1) = equal contribution
 (2) = equal contribution
 
-[eLife 2017](https://elifesciences.org/articles/27670) | [pdf](assets/srinivas.gs.elife.pdf)
+[eLife 2017](https://elifesciences.org/articles/27670) | [pdf](assets/srinivas.gs.elife.pdf) | [talk based on this work at KITP](http://online.kitp.ucsb.edu/online/snav18/emonet/)
 
 ### Presynaptic GABA receptors mediate temporal contrast enhancement in *Drosophila* olfactory sensory neurons and modulate odor-driven behavioral kinetics
 
