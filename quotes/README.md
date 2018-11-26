@@ -201,6 +201,10 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 [interview with Harpers](https://en.wikipedia.org/wiki/John_Ehrlichman#War_on_drugs)
 > The Nixon campaign in 1968, and the Nixon White House after that, had two enemies: the antiwar left and black people. You understand what I’m saying? We knew we couldn’t make it illegal to be either against the war or black, but by getting the public to associate the hippies with marijuana and blacks with heroin, and then criminalizing both heavily, we could disrupt those communities. We could arrest their leaders, raid their homes, break up their meetings, and vilify them night after night on the evening news. Did we know we were lying about the drugs? Of course we did. 
 
+## E M Forster
+[A room with a view](https://en.wikipedia.org/wiki/A_Room_with_a_View)
+> Mistrust all enterprises that require new clothes. 
+
 ## Hermann Göring 
 [statement at the Nuremberg trials](http://www.snopes.com/quotes/goering.asp)
 > Naturally the common people don't want war: Neither in Russia, nor in England, nor for that matter in Germany. That is understood. But, after all, it is the leaders of the country who determine the policy and it is always a simple matter to drag the people along, whether it is a democracy, or a fascist dictatorship, or a parliament, or a communist dictatorship. Voice or no voice, the people can always be brought to the bidding of the leaders. That is easy. *All you have to do is tell them they are being attacked, and denounce the peacemakers for lack of patriotism and exposing the country to danger. It works the same in any country.*

@@ -42,7 +42,7 @@ All code here is [free software](http://www.fsf.org/about/what-is-free-software)
 
 Srinivas Gorur-Shandilya (1), Alec Hoyland (1) and Eve Marder. 
 
-[bioRxiv](https://www.biorxiv.org/content/early/2018/08/18/394973) | [code](https://github.com/sg-s/xolotl)
+[Frontiers in Neuroinformatics 2018](https://www.frontiersin.org/articles/10.3389/fninf.2018.00087/full) | [code](https://github.com/sg-s/xolotl) | [documentation](https://xolotl.readthedocs.io/en/master/)
 
 (1) = equal contribution
 
