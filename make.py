@@ -20,7 +20,7 @@ for path in all_paths:
 	# make the html from README.md
 	input_file = codecs.open(path, mode="r", encoding="utf-8")
 	text = input_file.read()
-	html = markdown.markdown(text, ['markdown.extensions.extra'])
+	html = markdown.markdown(text, extensions=['markdown.extensions.extra'])
 
 	html = html.replace('<table>','<table id="example" class="display" cellspacing="0" width="80%">')
 
