@@ -21,19 +21,12 @@ A pure MATLAB class to control and manipulate models, simulations, functions...a
 * [kontroller](https://github.com/sg-s/kontroller#kontroller):
 A easy-to-use wrapper for MATLAB's DAQ toolbox
 
-* [spikesort](https://github.com/sg-s/spikesort#spikesort):
-Interactive, automated extracellular spike sorting for kontroller
+* [crabsort](https://github.com/sg-s/crabsort):
+Interactive, automated extracellular spike sorting with machine learning
 
-* [fly-voyeur](https://github.com/sg-s/fly-voyeur/wiki):
-Automated fly courtship behaviour tracking and scoring
 
-<div class = "sidenote leftnote">You should look at my <a href="https://github.com/sg-s/">github page</a> for other projects I'm working on.</div>  
 
-All code here is [free software](http://www.fsf.org/about/what-is-free-software). You can install any of these packages directly from your MATLAB prompt using my package manager:
-            
-    urlwrite('https://srinivas.gs/...
-        install.m','install.m'); 
-    install sg-s/xolotl
+All code here is [free software](http://www.fsf.org/about/what-is-free-software). You should look at my [github page](https://github.com/sg-s/) for other projects I'm working on.
 
 <a name = "publications"></a>
 # Publications
@@ -126,69 +119,54 @@ accepted talk at [Sense2Synapse](http://sense2synapse.com/index.html) New York, 
 <a name = "photos"></a>
 # Photographs
 
-<table class="center">
 
-    <tr>
-    <td width = 50%>     
-        <a href="photography/adk/"><img src="https://raw.githubusercontent.com/sg-s/srinivas.gs/master/assets/adk.jpg"  onerror='this.onerror = null; this.src="./assets/adk.jpg"' width = "100%"/></a>
-        The Adirondacks, USA. 
-     
-    </td>
-    <td>    
-        <a href="photography/spiders/"><img src="https://raw.githubusercontent.com/sg-s/srinivas.gs/master/assets/spiders.jpg"  onerror='this.onerror = null; this.src="./assets/spiders.jpg"' width = "100%"/></a>
-        An Acre of Spiders.  
-    </td>
-  </tr>
+<ul id = "test">
+<li class = "photobanner keep"><a href = "./photography/redwoods/"><img src = "./assets/redwoods.jpg"></a></li>
+<li class = "photobanner"><a href = "./photography/adk/"><img src = "./assets/adk.jpg"></a></li>
+<li class = "photobanner"><a href = "./photography/mukuntuweap/"><img src = "./assets/zion.jpg"></a></li>
+<li class = "photobanner keep"><a href = "./photography/walls/"><img src = "./assets/walls.jpg"></a></li>
+<li class = "photobanner"><a href = "./photography/cotopaxi/"><img src = "./assets/cotopaxi.jpg"></a></li>
+<li class = "photobanner"><a href = "./photography/delhi/"><img src = "./assets/delhi.jpg"></a></li>
+<li class = "photobanner"><a href = "./photography/pushkar/"><img src = "./assets/pushkar.jpg"></a></li>
+<li class = "photobanner"><a href = "./photography/ladakh/"><img src = "./assets/ladakh.jpg"></a></li>
+<li class = "photobanner"><a href = "./photography/panchachuli/"><img src = "./assets/panchachuli.jpg"></a></li>
+<li class = "photobanner"><a href = "./photography/germany/"><img src = "./assets/germany.jpg"></a></li>
+<li class = "photobanner"><a href = "./photography/spiders/"><img src = "./assets/spiders.jpg"></a></li>
+</ul>
 
-  <tr>
-    <td width = 50%>
+<script>
 
-        <a href="photography/mukuntuweap/"><img src="https://raw.githubusercontent.com/sg-s/srinivas.gs/master/assets/mukuntuweap.jpg"  onerror='this.onerror = null; this.src="./assets/mukuntuweap.jpg"' width = "100%"/></a>
-        Mukuntuweap, Utah, USA.
-    </td>
-    <td width = 50%>
-        <a href="photography/panchachuli/"><img src="https://raw.githubusercontent.com/sg-s/srinivas.gs/master/assets/panchachuli.jpg"  onerror='this.onerror = null; this.src="./assets/panchachuli.jpg"' width = "100%"/></a>
-       Panchachuli, Kumaon, India. 
-    </td>
-  </tr>
+  var ul = document.querySelector('#test');
+  var N_remove = 5;
 
 
-  <tr>
-    <td width = 50%>    
-        <a href="photography/cotopaxi/"><img src="https://raw.githubusercontent.com/sg-s/srinivas.gs/master/assets/cotopaxi.jpg"  onerror='this.onerror = null; this.src="./assets/cotopaxi.jpg"' width = "100%"/></a>
-        Cotopaxi, Ecuador.
-    
-    </td>
-    <td width = 50%>  
-        <a href="photography/delhi/"><img src="https://raw.githubusercontent.com/sg-s/srinivas.gs/master/assets/delhi.jpg"  onerror='this.onerror = null; this.src="./assets/delhi.jpg"' width = "100%"/></a>
-        Delhi, India.
-    </td>
-  </tr>
+  // first shuffle the list
+  for (var i = ul.children.length; i >= 0; i--) {
+    ul.appendChild(ul.children[Math.random() * i | 0]);
+  }
 
-  <tr>
-    <td width = 50%>
-        <a href="photography/germany/"><img src="https://raw.githubusercontent.com/sg-s/srinivas.gs/master/assets/germany.jpg"  onerror='this.onerror = null; this.src="./assets/germany.jpg"' width = "100%"/></a>
-        Germany
-    </td>
-    <td width = 50%>    
-        <a href="photography/ladakh/"><img src="https://raw.githubusercontent.com/sg-s/srinivas.gs/master/assets/ladakh.jpg"  onerror='this.onerror = null; this.src="./assets/ladakh.jpg"' width = "100%"/></a>
-        Ladakh, India.    
-    </td>
-  </tr>
 
-  <tr>
-    <td width = 50%>     
-        <a href="photography/pushkar/"><img src="https://raw.githubusercontent.com/sg-s/srinivas.gs/master/assets/pushkar.jpg"  onerror='this.onerror = null; this.src="./assets/pushkar.jpg"' width = "100%"/></a>
-        Pushkar, India. 
-     
-    </td>
-    <td>    
-        <a href="photography/walls/"><img src="https://raw.githubusercontent.com/sg-s/srinivas.gs/master/assets/walls.jpg"  onerror='this.onerror = null; this.src="./assets/walls.jpg"' width = "100%"/></a>
-        Walls.  
-    </td>
-  </tr>
+  
 
-</table>
+  // keep some things pinned to the top
+  var keep_items = document.querySelectorAll('.keep');
+  try {
+    for (var i = 0; i <= keep_items.length; i++) {
+      ul.insertBefore(keep_items[i], ul.firstChild);
+    }
+  } 
+  catch {}
+
+
+  // now remove the last N_remove items. since the list is 
+  // randomized, this is equivalent to randomly removing some items
+  for (var i = 0; i < N_remove; i++) {
+    ul.removeChild(ul.lastChild);
+  }
+
+  
+</script>
+
 
 
 <a name = "contact"></a>
