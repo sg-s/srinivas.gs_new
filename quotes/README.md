@@ -214,6 +214,11 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 *The Quiet American*
 > Sooner or later...one has to take sides – if one is to remain human. 
 
+
+## Bill Haywood
+> I've never read Marx's Kapital, but I have the marks of capital all over my body. 
+
+
 ## Robert Heinlein
 [*Time Enough for Love*](https://en.wikipedia.org/wiki/Competent_man)
 > A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyse a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.
