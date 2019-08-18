@@ -122,10 +122,10 @@ accepted talk at [Sense2Synapse](http://sense2synapse.com/index.html) New York, 
 
 <ul id = "test">
 <li class = "photobanner keep"><a href = "./photography/redwoods/"><img src = "./assets/redwoods.jpg"></a></li>
-<li class = "photobanner"><a href = "./photography/banff/"><img src = "./assets/banff.jpg"></a></li>
+<li class = "photobanner keep"><a href = "./photography/banff/"><img src = "./assets/banff.jpg"></a></li>
 <li class = "photobanner"><a href = "./photography/adk/"><img src = "./assets/adk.jpg"></a></li>
 <li class = "photobanner"><a href = "./photography/mukuntuweap/"><img src = "./assets/zion.jpg"></a></li>
-<li class = "photobanner keep"><a href = "./photography/walls/"><img src = "./assets/walls.jpg"></a></li>
+<li class = "photobanner"><a href = "./photography/walls/"><img src = "./assets/walls.jpg"></a></li>
 <li class = "photobanner"><a href = "./photography/cotopaxi/"><img src = "./assets/cotopaxi.jpg"></a></li>
 <li class = "photobanner"><a href = "./photography/delhi/"><img src = "./assets/delhi.jpg"></a></li>
 <li class = "photobanner"><a href = "./photography/pushkar/"><img src = "./assets/pushkar.jpg"></a></li>
