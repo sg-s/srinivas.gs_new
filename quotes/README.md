@@ -97,6 +97,11 @@ Rather, courage is the intellectual mastery of fear by understanding the true ri
 [*The Road to Wigan Pier*](http://www.orwell.ru/library/novels/The_Road_to_Wigan_Pier/english/e_rtwp)
 > We may find in the long run that tinned food is a deadlier weapon than the machine-gun.
 
+
+## William Blum
+from Killing Hope: US Military And CIA Interventions Since World War II
+> The boys of Capital, they also chortle in their martinis about the death of socialism. The word has been banned from polite conversation. And they hope no one will notice that every socialist experiment of any significance in the twentieth century — without exception — was either overthrown, invaded, corrupted, perverted, subverted, destabilized, or otherwise had life made impossible for it, by the United States and its allies. Not one socialist government or movement — from the Russian Revolution to the Sandinistas in Nicaragua, from Communist China to the FMLN in El Salvador — not one was permitted to rise or fall solely on its own merits; not one was left secure enough to drop its guard against the all-powerful enemy abroad and freely and fully relax control at home. It’s as if the Wright brothers’ first experiments with flying machines all failed because the automobile interests sabotaged each test flight. And then the good and god-fearing folk of the world looked upon these catastrophes, nodded their heads wisely, and intoned solemnly: Humankind shall never fly.
+
 <div class = "sidenote leftnote"><img src ="camara.jpg"></img></div>  
 ## Hélder Câmara 
 [*Helder, the Gift: A Life that Marked the Course of the Church in Brazil*](https://en.wikipedia.org/wiki/H%C3%A9lder_C%C3%A2mara#cite_note-1)
