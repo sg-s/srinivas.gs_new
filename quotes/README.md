@@ -237,6 +237,10 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 > Cypherpunks write code.
 
 <div class = "sidenote leftnote"><img src ="huxley.jpg"></img></div> 
+
+## Victor Hugo
+> The paradise of the rich is made out of the hell of the poor. 
+
 ## Aldous Huxley
 [*Island*](https://en.wikipedia.org/wiki/Island_(Huxley_novel))
 
