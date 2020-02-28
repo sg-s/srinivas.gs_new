@@ -50,7 +50,7 @@ body {
 
 #top-star {
   text-align: center;
-  margin-top: 0px;
+  margin-top: 20px;
   color: #2e2e2e;
   font-size: 3em;
 }
@@ -207,11 +207,11 @@ td {
 
 
 .sidenote {
-  display: hidden;
+  display: none;
 }
 
 .leftnote {
-  display: hidden;
+  display: none;
 }
 
 #label {

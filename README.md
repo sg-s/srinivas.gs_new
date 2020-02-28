@@ -4,11 +4,14 @@
 # Code
 
 <div class = "sidenote">Here, I'm writing part of the C++ code underling <a href = "https://github.com/sg-s/xolotl">xolotl</a></div>
+
+<div id = hero-video>
 <video width="650" autoplay loop muted>
   <source src="assets/xolotl.mp4" type="video/mp4">
   <source src="assets/xolotl.webm" type="video/webm">
 Your browser does not support the video tag.
 </video>
+</div>
 
 
 
