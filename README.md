@@ -124,7 +124,9 @@ accepted talk at [Sense2Synapse](http://sense2synapse.com/index.html) New York, 
 
 
 <ul id = "test">
-<li class = "photobanner keep"><a href = "./photography/redwoods/"><img src = "./assets/redwoods.jpg"></a></li>
+<li class = "photobanner keep"><a href = "./photography/panchachuli/"><img src = "./assets/panchachuli.jpg"></a></li>
+<li class = "photobanner"><a href = "./photography/redwoods/"><img src = "./assets/redwoods.jpg"></a></li>
+<li class = "photobanner keep"><a href = "./photography/varanasi/"><img src = "./assets/varanasi.jpg"></a></li>
 <li class = "photobanner keep"><a href = "./photography/banff/"><img src = "./assets/banff.jpg"></a></li>
 <li class = "photobanner"><a href = "./photography/adk/"><img src = "./assets/adk.jpg"></a></li>
 <li class = "photobanner"><a href = "./photography/mukuntuweap/"><img src = "./assets/zion.jpg"></a></li>
@@ -133,7 +135,8 @@ accepted talk at [Sense2Synapse](http://sense2synapse.com/index.html) New York, 
 <li class = "photobanner"><a href = "./photography/delhi/"><img src = "./assets/delhi.jpg"></a></li>
 <li class = "photobanner"><a href = "./photography/pushkar/"><img src = "./assets/pushkar.jpg"></a></li>
 <li class = "photobanner"><a href = "./photography/ladakh/"><img src = "./assets/ladakh.jpg"></a></li>
-<li class = "photobanner"><a href = "./photography/panchachuli/"><img src = "./assets/panchachuli.jpg"></a></li>
+
+<li class = "photobanner"><a href = "./photography/redwoods/"><img src = "./assets/redwoods.jpg"></a></li>
 <li class = "photobanner"><a href = "./photography/germany/"><img src = "./assets/germany.jpg"></a></li>
 <li class = "photobanner"><a href = "./photography/spiders/"><img src = "./assets/spiders.jpg"></a></li>
 </ul>
