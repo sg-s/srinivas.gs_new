@@ -211,7 +211,11 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 > Mistrust all enterprises that require new clothes. 
 
 
-## Anatole france
+## Eugene Debs
+[Statement to the Court Upon Being Convicted of Violating the Sedition Act](https://www.marxists.org/archive/debs/works/1918/court.htm)
+> Years ago I recognized my kinship with all living beings, and I made up my mind that I was not one bit better than the meanest on earth. I said then, and I say now, that while there is a lower class, I am in it, and while there is a criminal element I am of it, and while there is a soul in prison, I am not free. 
+
+## Anatole France
 > The law, in its majestic equality, forbids the rich as well as the poor to sleep under bridges, to beg in the streets, and to steal bread.
 
 ## Hermann Göring 
