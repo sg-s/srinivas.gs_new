@@ -34,6 +34,25 @@ All code here is [free software](http://www.fsf.org/about/what-is-free-software)
 <a name = "publications"></a>
 # Publications
 
+
+### Coupling between fast and slow oscillator circuits in Cancer borealis is temperature compensated
+
+Daniel Powell, Sara Haddad, Srinivas Gorur-Shandilya and Eve Marder
+
+Being revised for resubmission at eLife | [code](https://github.com/marderlab/gastric)
+
+### Activity-dependent compensation of cell size is vulnerable to targeted deletion of ion channels
+
+Srinivas Gorur-Shandilya, Eve Marder and Timothy O'Leary
+
+[Scientific Reports 2020](https://www.nature.com/articles/s41598-020-72977-6) | [code](https://github.com/marderlab/size-compensation) | [preprint](https://www.biorxiv.org/content/10.1101/753608v1)
+
+### Controlling and measuring dynamic odorant stimuli in the laboratory
+
+Srinivas Gorur-Shandilya, Carlotta Martelli, Mahmut Demir and Thierry Emonet.
+
+[Journal of Experimental Biology 2020](https://jeb.biologists.org/content/222/23/jeb207787)
+
 ### Xolotl: An Intuitive and Approachable Neuron and Network Simulator for Research and Teaching
 
 Srinivas Gorur-Shandilya (1), Alec Hoyland (1) and Eve Marder. 
