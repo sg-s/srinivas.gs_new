@@ -39,7 +39,7 @@ body {
     background:#F3F3F3 url(../assets/white-noise.jpg);
     margin-bottom: 0px;
 
-    background-image: url(../assets/books.png);
+    /*background-image: url(../assets/books.png);*/
     background-repeat: repeat-y;
     background-position: right; 
 
