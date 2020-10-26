@@ -35,7 +35,7 @@ All code here is [free software](http://www.fsf.org/about/what-is-free-software)
 # Publications
 
 
-### Coupling between fast and slow oscillator circuits in Cancer borealis is temperature compensated
+### Coupling between fast and slow oscillator circuits in *Cancer borealis* is temperature compensated
 
 Daniel Powell, Sara Haddad, Srinivas Gorur-Shandilya and Eve Marder
 
