@@ -16,7 +16,7 @@ Your browser does not support the video tag.
 
 
 * [xolotl](https://github.com/sg-s/xolotl):
-A fast (written in C++), flexible (fully object oriented) and immediate (live manipulation in MATLAB) neuron and network simulator. 
+A fast (written in C++), flexible (fully object oriented) and immediate (live manipulation in MATLAB) neuron and network simulator. Also on [Mathworks File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/79894-xolotl)
 
 * [puppeteer](https://github.com/sg-s/puppeteer):
 A pure MATLAB class to control and manipulate models, simulations, functions...anything
