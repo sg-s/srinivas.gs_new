@@ -5,6 +5,7 @@
 
 
 <div class = "sidenote leftnote"><img src ="ali.jpg"></img></div>  
+
 ## Muhammad Ali
 [*On being drafted into the Vietnam War*](https://www.youtube.com/watch?v=HeFMyrWlZ68)
 > My conscience won't let me go shoot my brother, or some darker people, or some poor hungry people in the mud for big powerful America. And shoot them for what? They never called me nigger, they never lynched me, they didn't put no dogs on me, they didn't rob me of my nationality, rape and kill my mother and father ... shoot them for what? How can I shoot them poor people? Just take me to jail.
@@ -25,7 +26,7 @@
 
 <div class = "sidenote leftnote"><img src ="assange.jpg"></img></div>  
 ## Julian Assange 
-<div class = "sidenote">Most people don't understand how signifcanlty technology had changed. The usually sharp Southpark completeley misses the point in <a href = "http://southpark.cc.com/full-episodes/s17e01-let-go-let-gov">this</a> disaster of a episode.</div>  
+<div class = "sidenote">Most people don't understand how significantly technology had changed. The usually sharp Southpark completely misses the point in <a href = "http://southpark.cc.com/full-episodes/s17e01-let-go-let-gov">this</a> disaster of a episode.</div>  
 [AMA on reddit](http://www.reddit.com/r/IAmA/comments/31om1d/we_are_julian_assange_sarah_harrison_renata_avila/cq3iqkg)
 > Mass surveillance combined with mass storage means everyone is in the "watch list". Rather than a categorization problem, it's a ranking problem.
 
@@ -65,6 +66,7 @@ Rather, courage is the intellectual mastery of fear by understanding the true ri
 5. “How do we get rid of you?” <br>
 
 <div class = "sidenote leftnote"><img src ="orwell.jpg"></img></div> 
+
 ## Eric Arthur Blair
 [review published in *The New Statesman and Nation*](http://quoteinvestigator.com/2015/12/10/war-profit/)
 > War against a foreign country only happens when the moneyed classes think they are going to profit from it.
@@ -115,6 +117,7 @@ And that makes me happy. For it says that no matter how hard the world pushes ag
 > Autumn is a second spring when every leaf is a flower.
 
 <div class = "sidenote leftnote"><img src ="camara.jpg"></img></div>  
+
 ## Hélder Câmara 
 [*Helder, the Gift: A Life that Marked the Course of the Church in Brazil*](https://en.wikipedia.org/wiki/H%C3%A9lder_C%C3%A2mara#cite_note-1)
 > When I give food to the poor, they call me a saint. When I ask why they are poor, they call me a communist.
@@ -131,6 +134,7 @@ And that makes me happy. For it says that no matter how hard the world pushes ag
 
 
 <div class = "sidenote leftnote"><img src ="chomsky.jpg"></img></div>
+
 ## Noam Chomsky 
 [On student debt and education](https://chomsky.info/20130227/)
 > Students who acquire large debts putting themselves through school are unlikely to think about changing society. When you trap people in a system of debt they can't afford the time to think. Tuition fee increases are a **disciplinary technique**, and by the time students graduate, they  are not only loaded with debt, but have also internalized the disciplinarian culture. This makes them efficient components of the consumer economy. 
@@ -139,7 +143,8 @@ And that makes me happy. For it says that no matter how hard the world pushes ag
 [*The Common Good*](https://chomsky.info/commongood01/)
 > The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum — even encourage the more critical and dissident views. That gives people the sense that there's free thinking going on, while all the time the presuppositions of the system are being reinforced by the limits put on the range of the debate.
 
-<div class = "sidenote leftnote"><img src ="coates.jpg"></img></div>  
+<div class = "sidenote leftnote"><img src ="coates.jpg"></img></div>
+
 ## Ta-Nehisi Coates 
 [*The Case for Reparations*](http://www.theatlantic.com/features/archive/2014/05/the-case-for-reparations/361631/)
 > Indeed, in America there is a strange and powerful belief that if you stab a black person 10 times, the bleeding stops and the healing begins the moment the assailant drops the knife.
@@ -168,19 +173,24 @@ Freedman: “Massa, how many days’ labor have I lost by you?”
 
 
 <div class = "sidenote leftnote"><img src ="corrie.jpg"></img></div>  
+
 ## Rachel Corrie 
 [last letter to her parents](http://www.theguardian.com/world/2003/mar/18/usa.israel)
 <div class = "sidenote"><a href = "https://en.wikipedia.org/wiki/Rachel_Corrie">This</a> is what happened to her, and <a href = "https://en.wikipedia.org/wiki/Gaza_flotilla_raid">this</a> is what happened to a ship named after her delivering humanitarian supplies.</div> 
+
 > Just want to write to my Mom and tell her that I'm witnessing this chronic, insidious genocide and I'm really scared, and questioning my fundamental belief in the goodness of human nature. This has to stop. I think it is a good idea for us all to drop everything and devote our lives to making this stop. I don't think it's an extremist thing to do anymore. I still really want to dance around to Pat Benatar and have boyfriends and make comics for my coworkers. But I also want this to stop. Disbelief and horror is what I feel. Disappointment. I am disappointed that this is the base reality of our world and that we, in fact, participate in it. This is not at all what I asked for when I came into this world. This is not at all what the people here asked for when they came into this world. This is not the world you and Dad wanted me to come into when you decided to have me. This is not what I meant when I looked at Capital Lake and said: "This is the wide world and I'm coming to it." I did not mean that I was coming into a world where I could live a comfortable life and possibly, with no effort at all, exist in complete unawareness of my participation in genocide. More big explosions somewhere in the distance outside.
 
 <div class = "sidenote leftnote"><img src ="davis.jpg"></img></div>
+
 ## Angela Davis
 > The food we eat masks so much cruelty. The fact that we can sit down and eat a piece of chicken without thinking about the horrendous conditions under which chickens are industrially bred in this country is a sign of the dangers of capitalism, how capitalism has colonized our minds.
 
 
 <div class = "sidenote leftnote"><img src ="dawkins.jpg"></img></div> 
+
 ## Richard Dawkins
 <div class = "sidenote">This passage also makes an appearance on the bunny-metal band Fall of Efrafa's <a href ="https://www.youtube.com/watch?v=5Qij03PwXhw">last track</a>. </div>
+
 [*The virus of faith*](https://www.youtube.com/watch?v=aMUG6qd98wc)
 > There is no all seeing, all loving God who keeps us free from harm. Atheism is not a recipe for despair. I think the opposite. By disclaiming the idea of the next life we can take more excitement in this one. The here and now is not something to be endured before eternal bliss or damnation. The here and now is all we have, an inspiration to make the most of it. So atheism is life-affirming in a way that religion can never be. 
 > 
@@ -214,11 +224,13 @@ Freedman: “Massa, how many days’ labor have I lost by you?”
 
 
 <div class = "sidenote leftnote"><img src ="cory.jpg"></img></div> 
+
 ## Cory Doctrow 
 [*Doctrow's First Law*](https://www.publishersweekly.com/pw/by-topic/columns-and-blogs/cory-doctorow/article/44012-doctorow-s-first-law.html)
 > Any time someone puts a lock on something that belongs to you and won't give you the key, that lock isn't there for your benefit. 
 
 <div class = "sidenote leftnote"><img src ="eisenhower.jpg"></img></div> 
+
 ## Dwight D Eisenhower 
 [*Chance for Peace* speech](http://www.washingtonpost.com/wp-dyn/content/article/2011/01/14/AR2011011404915.html)
 > Every gun that is made, every warship launched, every rocket fired signifies, in the final sense, a theft from those who hunger and are not fed, those who are cold and are not clothed.
@@ -242,6 +254,7 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 > Naturally the common people don't want war: Neither in Russia, nor in England, nor for that matter in Germany. That is understood. But, after all, it is the leaders of the country who determine the policy and it is always a simple matter to drag the people along, whether it is a democracy, or a fascist dictatorship, or a parliament, or a communist dictatorship. Voice or no voice, the people can always be brought to the bidding of the leaders. That is easy. *All you have to do is tell them they are being attacked, and denounce the peacemakers for lack of patriotism and exposing the country to danger. It works the same in any country.*
 
 <div class = "sidenote leftnote"><img src ="greene.jpg"></img></div> 
+
 ## Graham Greene 
 *The Quiet American*
 > Sooner or later...one has to take sides – if one is to remain human. 
@@ -283,6 +296,7 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 > When you're young, you look at television and think, There's a conspiracy. The networks have conspired to dumb us down. But when you get a little older, you realize that's not true. The networks are in business to give people exactly what they want. That's a far more depressing thought. Conspiracy is optimistic! You can shoot the bastards! We can have a revolution! But the networks are really in business to give people what they want. It's the truth. 
 
 <div class = "sidenote leftnote"><img src ="mlk.jpg"></img></div> 
+
 ## Martin Luther King
 [*Beyond Vietnam — a Time to Break Silence*](http://www.americanrhetoric.com/speeches/mlkatimetobreaksilence.htm)
 > This way of settling differences is not just. This business of burning human beings with napalm, of filling our nation's homes with orphans and widows, of injecting poisonous drugs of hate into the veins of peoples normally humane, of sending men home from dark and bloody battlefields physically handicapped and psychologically deranged, cannot be reconciled with wisdom, justice, and love.
@@ -294,6 +308,7 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 > I must confess that over the past few years I have been gravely disappointed with the white moderate. I have almost reached the regrettable conclusion that the Negro's great stumbling block in his stride toward freedom is not the White Citizen's Counciler or the Ku Klux Klanner, but the white moderate, who is more devoted to "order" than to justice; who prefers a negative peace which is the absence of tension to a positive peace which is the presence of justice; who constantly says: "I agree with you in the goal you seek, but I cannot agree with your methods of direct action"; who paternalistically believes he can set the timetable for another man's freedom; who lives by a mythical concept of time and who constantly advises the Negro to wait for a "more convenient season." Shallow understanding from people of good will is more frustrating than absolute misunderstanding from people of ill will. Lukewarm acceptance is much more bewildering than outright rejection.
 
 <div class = "sidenote leftnote"><img src ="jiddu.jpg"></img></div> 
+
 ## Jiddu Krishnamurthi
 [*Freedom from the known (Chapter 6)*](http://www.jkrishnamurti.org/krishnamurti-teachings/print.php?tid=48&chid=56789)
 >  When you call yourself an Indian or a Muslim or a Christian or a European, or anything else, you are being violent. Do you see why it is violent? Because you are separating yourself from the rest of mankind. When you separate yourself by belief, by nationality, by tradition, it breeds violence. So a man who is seeking to understand violence does not belong to any country, to any religion, to any political party or partial system; he is concerned with the total understanding of mankind.
@@ -303,22 +318,32 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 
 
 <div class = "sidenote leftnote"><img src ="nietzsche.jpg"></img></div> 
+
 ## Friedrich Nietzsche 
 letter to Elisabeth Nietzsche
 > Every true faith is infallible. It performs what the believing person hopes to find in it. But it does not offer the least support for the establishing of an objective truth. Here the ways of men divide. If you want to achieve peace of mind and happiness, have faith. If you want to be a disciple of truth, then search.
 
+
+## Michael Parenti
+> It is the heart of U.S. policy, ladies and gentlemen, to use fascism to preserve capitalism while claiming to be saving democracy from communism.
+
 <div class = "sidenote leftnote"><img src ="roy.jpg"></img></div> 
+
 ## Arundhati Roy
 *The Checkbook and the Cruise Missile*
 > Sometimes I think the world is divided into those who have a comfortable relationship with power and those who have a naturally adversarial relationship with power. 
 
 <div class = "sidenote leftnote"><img src ="said.jpg"></img></div>  
+
 ## Edward Said 
 [*The Reith Lectures: Speaking Truth To Power*](http://www.independent.co.uk/life-style/the-reith-lectures-speaking-truth-to-power-in-his-penultimate-reith-lecture-edward-said-considers-the-basic-question-for-the-intellectual-how-does-one-speak-the-truth-this-is-an-edited-text-of-last-nights-radio-4-broadcast-1486359.html)
+
 <div class = "sidenote">Similar to Chomsky's point in <a href = #chomsky-quote>this</a> quote.</div>
+
 > Nothing in my view is more reprehensible than those habits of mind in the intellectual that induce avoidance, that characteristic turning away from a difficult and principled position which you know to be the right one, but which you decide not to take. You do not want to appear too political; you are afraid of seeming controversial; you need the approval of a boss or an authority figure; you want to keep a reputation for being balanced, objective, moderate; your hope is to be asked back, to consult, to be on a board or prestigious committee, and so, to remain within the responsible mainstream; someday you hope to get an honorary degree, a big prize, perhaps even an ambassadorship. For an intellectual these habits of mind are corrupting par excellence. If anything can denature, neutralise and finally kill a passionate intellectual life, it is these considerations, internalised and so to speak in the driver's seat.
 
 <div class = "sidenote leftnote"><img src ="savio.jpg"></img></div>  
+
 ## Mario Savio
 [speech on Dec 2 1964](https://en.wikipedia.org/wiki/Mario_Savio#.22Bodies_upon_the_gears.22_speech)
 > There's a time when the operation of the machine becomes so odious, makes you so sick at heart, that you can't take part! You can't even passively take part! And you've got to put your bodies upon the gears and upon the wheels…upon the levers, upon all the apparatus, and you've got to make it stop! And you've got to indicate to the people who run it, to the people who own it, that unless you're free, the machine will be prevented from working at all!
@@ -329,12 +354,15 @@ letter to Elisabeth Nietzsche
 
 
 <div class = "sidenote leftnote"><img src ="snowden.jpg"></img></div>  
+
 ## Edward Snowden 
 <div class = "sidenote">There are echoes of Martin Niemöller's <a href = "https://en.wikipedia.org/wiki/First_they_came_...">words</a> here.</div>
+
 [AMA on reddit](http://www.reddit.com/r/IAmA/comments/36ru89/just_days_left_to_kill_mass_surveillance_under/crglgh2)
 > Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say. *A free press benefits more than just those who read the paper*.
 
 <div class = "sidenote leftnote"><img src ="stallman.jpg"></img></div>  
+
 ## Richard Stallman
 [*Slashdot interview 2000*](https://stallman.org/sayings.html)
 > Injustice is happening now; suffering is happening now. We have choices to make now. To insist on absolute certainty before starting to apply ethics to life decisions is a way of choosing to be amoral.
@@ -354,6 +382,7 @@ letter to Elisabeth Nietzsche
 > Did you ever see history portrayed as an old man with a wise brow and pulse-less heart, weighing all things in the balance of reason? Is not rather the genius of history like an eternal, imploring maiden, full of fire, with a burning heart and flaming soul, humanly warm and humanly beautiful? Therefore, if you have the capacity to suffer or rejoice with the generation that had been, to hate with them, to love with them, to be transported to admire, to despise, to curse as they have done - in a word: to live among them with your whole heart and not alone with your cold, reflecting judgement; then follow me. I will lead you down into the well. My hand is weak and my sketch humble, but your heart will guide you better than I.
 
 <div class = "sidenote leftnote"><img src ="wilde.jpg"></img></div> 
+
 ## Oscar Wilde
 [*The Soul of Man under Socialism*](https://www.marxists.org/reference/archive/wilde-oscar/soul-man/index.htm)
 > People find themselves surrounded by hideous poverty, by hideous ugliness, by hideous starvation.  It is inevitable that they should be strongly moved by all this.  *The emotions of man are stirred more quickly than man’s intelligence. It is much more easy to have sympathy with suffering than it is to have sympathy with thought.*  Remedies of these people do not cure the disease: they merely prolong it.  Indeed, their remedies are part of the disease. They try to solve the problem of poverty, for instance, by keeping the poor alive; or, in the case of a very advanced school, *by amusing the poor.*
@@ -369,6 +398,7 @@ letter to Elisabeth Nietzsche
 
 
 <div class = "sidenote leftnote"><img src ="zizek.jpg"></img></div>  
+
 ## Slavoj Žižek 
 <div class = "sidenote">See this <a href="https://www.youtube.com/watch?v=hpAMbpQ8J7g">video</a> for a more detailed criticism of the role of charity in modern economies.</div>  
 
@@ -386,5 +416,6 @@ letter to Elisabeth Nietzsche
 
 <div class = "sidenote">The totality of a system is something to keep in mind when you think about <a href = #pyramid>this</a> observation by Orwell.</div>
 [*IQ squared talk*](https://www.youtube.com/watch?v=cW1zUh94uMY)
+
 > When you talk about today's global capitalism, I would say, don't talk only about countries which function more or less like western countries, mention also countries like the democratic republic of Congo, which doesn't even function as a country...the point is to see the republic of Congo not as a simple deviation, that it is not yet capitalism, that this is primitive, but precisely as part of the totality of today's capitalism. 
 
