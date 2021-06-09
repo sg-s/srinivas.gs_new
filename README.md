@@ -34,6 +34,7 @@ All code here is [free software](http://www.fsf.org/about/what-is-free-software)
 <a name = "publications"></a>
 # Publications
 
+[Google Scholar ↗](https://scholar.google.com/citations?user=lTu-VxIAAAAJ)
 
 ### Coupling between fast and slow oscillator circuits in *Cancer borealis* is temperature compensated
 
