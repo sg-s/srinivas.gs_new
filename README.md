@@ -38,7 +38,7 @@ All code here is [free software](http://www.fsf.org/about/what-is-free-software)
 
 ### Coupling between fast and slow oscillator circuits in *Cancer borealis* is temperature compensated
 
-Daniel Powell<sup>†</sup>, Sara Haddad†, Srinivas Gorur-Shandilya† and Eve Marder
+Daniel Powell<sup>†</sup>, Sara Haddad<sup>†</sup>, Srinivas Gorur-Shandilya<sup>†</sup> and Eve Marder
 
 [eLife 2021](https://elifesciences.org/articles/60454) | [code](https://github.com/marderlab/gastric)
 
@@ -58,11 +58,11 @@ Srinivas Gorur-Shandilya, Carlotta Martelli, Mahmut Demir and Thierry Emonet.
 
 ### Xolotl: An Intuitive and Approachable Neuron and Network Simulator for Research and Teaching
 
-Srinivas Gorur-Shandilya (1), Alec Hoyland (1) and Eve Marder. 
+Srinivas Gorur-Shandilya<sup>†</sup>, Alec Hoyland<sup>†</sup> and Eve Marder. 
 
 [Frontiers in Neuroinformatics 2018](https://www.frontiersin.org/articles/10.3389/fninf.2018.00087/full) | [code](https://github.com/sg-s/xolotl) | [documentation](https://xolotl.readthedocs.io/en/master/)
 
-(1) = equal contribution
+† = equal contribution
 
 ### Regulation of Eag by calcium/calmodulin controls presynaptic excitability in *Drosophila*
 
@@ -78,10 +78,9 @@ Srinivas Gorur-Shandilya
 
 ### Olfactory receptor neurons use gain control and complementary kinetics to encode intermittent odorant stimuli
 
-Srinivas Gorur-Shandilya (1), Mahmut Demir (1), Junjiajia Long, Damon A Clark (2) and Thierry Emonet (2)
+Srinivas Gorur-Shandilya<sup>†</sup>, Mahmut Demir<sup>†</sup>, Junjiajia Long, Damon A Clark and Thierry Emonet
 
-(1) = equal contribution
-(2) = equal contribution
+† = equal contribution
 
 [eLife 2017](https://elifesciences.org/articles/27670) | [pdf](assets/srinivas.gs.elife.pdf) | [talk based on this work at KITP](http://online.kitp.ucsb.edu/online/snav18/emonet/)
 
