@@ -38,11 +38,11 @@ All code here is [free software](http://www.fsf.org/about/what-is-free-software)
 
 ### Coupling between fast and slow oscillator circuits in *Cancer borealis* is temperature compensated
 
-Daniel Powell (1), Sara Haddad (1), Srinivas Gorur-Shandilya (1) and Eve Marder
+Daniel Powell<sup>†</sup>, Sara Haddad†, Srinivas Gorur-Shandilya† and Eve Marder
 
 [eLife 2021](https://elifesciences.org/articles/60454) | [code](https://github.com/marderlab/gastric)
 
-(1) = equal contribution
+† = equal contribution
 
 ### Activity-dependent compensation of cell size is vulnerable to targeted deletion of ion channels
 
