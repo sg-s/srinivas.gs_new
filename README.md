@@ -47,7 +47,8 @@ Srinivas Gorur-Shandilya, Elizabeth M. Cronin, Anna C. Schneider, Sara Ann Hadda
 
 
 
-
+<br>
+<br>
 
 <div class = "sidenote leftnote"><span id = "label"><img src = '../assets/gastric.png'></span></div> 
 
@@ -59,6 +60,12 @@ Daniel Powell<sup>†</sup>, Sara Haddad<sup>†</sup>, Srinivas Gorur-Shandilya
 [eLife 2021](https://elifesciences.org/articles/60454) | [code](https://github.com/marderlab/gastric)
 
 † = equal contribution
+
+
+<br>
+<br>
+
+<div class = "sidenote leftnote"><span id = "label"><img src = '../assets/size.png'></span></div> 
 
 ### Activity-dependent compensation of cell size is vulnerable to targeted deletion of ion channels
 
