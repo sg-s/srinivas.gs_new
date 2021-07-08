@@ -45,6 +45,13 @@ Srinivas Gorur-Shandilya, Elizabeth M. Cronin, Anna C. Schneider, Sara Ann Hadda
 
 [biorxiv](https://www.biorxiv.org/content/10.1101/2021.07.06.451370v1) | [code](https://github.com/sg-s/stg-embedding/)
 
+
+
+
+
+<div class = "sidenote leftnote"><span id = "label"><img src = '../assets/gastric.png'></span></div> 
+
+
 ### Coupling between fast and slow oscillator circuits in *Cancer borealis* is temperature compensated
 
 Daniel Powell<sup>†</sup>, Sara Haddad<sup>†</sup>, Srinivas Gorur-Shandilya<sup>†</sup> and Eve Marder
