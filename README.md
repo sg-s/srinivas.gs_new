@@ -36,9 +36,10 @@ All code here is [free software](http://www.fsf.org/about/what-is-free-software)
 
 [Google Scholar ↗](https://scholar.google.com/citations?user=lTu-VxIAAAAJ)
 
+<div class = "sidenote leftnote"><span id = "label"><img src = '../assets/stg-embedding.png'></span></div> 
+
 ### Mapping circuit dynamics during function and dysfunction 
 
-<div class = "sidenote leftnote"><span id = "label"><img src = '../assets/stg-embedding.png'></span></div> 
 
 Srinivas Gorur-Shandilya, Elizabeth M. Cronin, Anna C. Schneider, Sara Ann Haddad, Philipp Rosenbaum, Dirk Bucher, Farzan Nadim, and Eve Marder
 
