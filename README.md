@@ -38,6 +38,8 @@ All code here is [free software](http://www.fsf.org/about/what-is-free-software)
 
 ### Mapping circuit dynamics during function and dysfunction 
 
+<div class = "sidenote leftnote"><span id = "label"><img src = '../assets/stg-embedding.png'></span></div> 
+
 Srinivas Gorur-Shandilya, Elizabeth M. Cronin, Anna C. Schneider, Sara Ann Haddad, Philipp Rosenbaum, Dirk Bucher, Farzan Nadim, and Eve Marder
 
 [biorxiv](https://www.biorxiv.org/content/10.1101/2021.07.06.451370v1) | [code](https://github.com/sg-s/stg-embedding/)
