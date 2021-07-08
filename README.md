@@ -36,6 +36,12 @@ All code here is [free software](http://www.fsf.org/about/what-is-free-software)
 
 [Google Scholar ↗](https://scholar.google.com/citations?user=lTu-VxIAAAAJ)
 
+### Mapping circuit dynamics during function and dysfunction 
+
+Srinivas Gorur-Shandilya, Elizabeth M. Cronin, Anna C. Schneider, Sara Ann Haddad, Philipp Rosenbaum, Dirk Bucher, Farzan Nadim, and Eve Marder
+
+[biorxiv](https://www.biorxiv.org/content/10.1101/2021.07.06.451370v1) | [code](https://github.com/sg-s/stg-embedding/)
+
 ### Coupling between fast and slow oscillator circuits in *Cancer borealis* is temperature compensated
 
 Daniel Powell<sup>†</sup>, Sara Haddad<sup>†</sup>, Srinivas Gorur-Shandilya<sup>†</sup> and Eve Marder
