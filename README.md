@@ -69,15 +69,28 @@ Daniel Powell<sup>†</sup>, Sara Haddad<sup>†</sup>, Srinivas Gorur-Shandilya
 
 ### Activity-dependent compensation of cell size is vulnerable to targeted deletion of ion channels
 
+
 Srinivas Gorur-Shandilya, Eve Marder and Timothy O'Leary
 
 [Scientific Reports 2020](https://www.nature.com/articles/s41598-020-72977-6) | [code](https://github.com/marderlab/size-compensation) | [preprint](https://www.biorxiv.org/content/10.1101/753608v1)
+
+<br>
+<br>
+
+<div class = "sidenote leftnote"><span id = "label"><img src = '../assets/odor.png'></span></div> 
 
 ### Controlling and measuring dynamic odorant stimuli in the laboratory
 
 Srinivas Gorur-Shandilya, Carlotta Martelli, Mahmut Demir and Thierry Emonet.
 
 [Journal of Experimental Biology 2020](https://jeb.biologists.org/content/222/23/jeb207787)
+
+
+<br>
+<br>
+
+<div class = "sidenote leftnote"><span id = "label"><img src = '../assets/X.png'></span></div> 
+
 
 ### Xolotl: An Intuitive and Approachable Neuron and Network Simulator for Research and Teaching
 
