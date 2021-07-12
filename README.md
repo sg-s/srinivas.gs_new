@@ -106,7 +106,7 @@ Peter Bronk, Elena Kuklin, Srinivas Gorur-Shandilya, Chang Liu, Timothy Wiggin, 
 
 [Journal of Neurophysiology 2018](https://www.physiology.org/doi/abs/10.1152/jn.00820.2017)
 
-### Gain control in Drosophila olfactory receptor neurons 
+### Gain control in *Drosophila* olfactory receptor neurons 
 
 Srinivas Gorur-Shandilya
 
