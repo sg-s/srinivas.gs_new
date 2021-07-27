@@ -112,6 +112,12 @@ Srinivas Gorur-Shandilya
 
 [Ph.D. thesis (Yale) 2017](./assets/srinivas.gs_thesis.pdf)
 
+
+<br>
+<br>
+
+<div class = "sidenote leftnote"><span id = "label"><img src = '../assets/gain.png'></span></div> 
+
 ### Olfactory receptor neurons use gain control and complementary kinetics to encode intermittent odorant stimuli
 
 Srinivas Gorur-Shandilya<sup>†</sup>, Mahmut Demir<sup>†</sup>, Junjiajia Long, Damon A Clark and Thierry Emonet
