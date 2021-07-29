@@ -87,8 +87,8 @@ Srinivas Gorur-Shandilya, Carlotta Martelli, Mahmut Demir and Thierry Emonet.
 
 
 <br>
-<br>
-<div class = "sidenote leftnote"><span id = "label"><img src = '../assets/X.png'></span></div> 
+
+<div class = "sidenote leftnote"><br><span id = "label"><img src = '../assets/X.png'></span></div> 
 
 ### Xolotl: An Intuitive and Approachable Neuron and Network Simulator for Research and Teaching
 
@@ -115,8 +115,7 @@ Srinivas Gorur-Shandilya
 
 
 <br>
-<br>
-<div class = "sidenote leftnote"><span id = "label"><img src = '../assets/gain.png'></span></div> 
+<div class = "sidenote leftnote"><br><span id = "label"><img src = '../assets/gain.png'></span></div> 
 
 
 ### Olfactory receptor neurons use gain control and complementary kinetics to encode intermittent odorant stimuli
