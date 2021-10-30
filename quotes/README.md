@@ -260,9 +260,14 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 > Sooner or later...one has to take sides – if one is to remain human. 
 
 
+
+<br>
+<br>
+
+
 <div class = "sidenote leftnote"><img src ="grossman.jpg"></img></div> 
 
-## Vasily Semyonovich Grossman (Васи́лий Семёнович Гро́ссман)
+## Vasily Semyonovich Grossman 
 > It is only [in Stalingrad] that people know what a kilometre is. A kilometre is one thousand metres. It is one hundred thousand centimetres. 
 
 
