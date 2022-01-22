@@ -24,6 +24,10 @@
 [*Column in Newsweek (21 January 1980)*]()
 > Anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that 'my ignorance is just as good as your knowledge'
 
+<br>
+<br>
+
+
 <div class = "sidenote leftnote"><img src ="assange.jpg"></img></div>  
 ## Julian Assange 
 <div class = "sidenote">Most people don't understand how significantly technology had changed. The usually sharp Southpark completely misses the point in <a href = "http://southpark.cc.com/full-episodes/s17e01-let-go-let-gov">this</a> disaster of a episode.</div>  
@@ -186,6 +190,10 @@ Freedman: “Massa, how many days’ labor have I lost by you?”
 > The food we eat masks so much cruelty. The fact that we can sit down and eat a piece of chicken without thinking about the horrendous conditions under which chickens are industrially bred in this country is a sign of the dangers of capitalism, how capitalism has colonized our minds.
 
 
+
+<br>
+<br>
+
 <div class = "sidenote leftnote"><img src ="dawkins.jpg"></img></div> 
 
 ## Richard Dawkins
@@ -229,6 +237,10 @@ Freedman: “Massa, how many days’ labor have I lost by you?”
 [*Doctrow's First Law*](https://www.publishersweekly.com/pw/by-topic/columns-and-blogs/cory-doctorow/article/44012-doctorow-s-first-law.html)
 > Any time someone puts a lock on something that belongs to you and won't give you the key, that lock isn't there for your benefit. 
 
+<br>
+<br>
+
+
 <div class = "sidenote leftnote"><img src ="eisenhower.jpg"></img></div> 
 
 ## Dwight D Eisenhower 
@@ -260,6 +272,21 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 > Sooner or later...one has to take sides – if one is to remain human. 
 
 
+
+<br>
+<br>
+
+
+<div class = "sidenote leftnote"><img src ="grossman.jpg"></img></div> 
+
+## Vasily Semyonovich Grossman 
+> It is only [in Stalingrad] that people know what a kilometre is. A kilometre is one thousand metres. It is one hundred thousand centimetres. 
+
+<br>
+<br>
+
+
+
 ## Bill Haywood
 > The mine owners did not find the gold, they did not mine the gold, they did not mill the gold, but by some weird alchemy all the gold belonged to them!
 
@@ -279,6 +306,13 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 
 ## Victor Hugo
 > The paradise of the rich is made out of the hell of the poor. 
+
+
+<br>
+<br>
+<br>
+
+
 
 ## Aldous Huxley
 [*Island*](https://en.wikipedia.org/wiki/Island_(Huxley_novel))
@@ -331,6 +365,13 @@ letter to Elisabeth Nietzsche
 > It is the heart of U.S. policy, ladies and gentlemen, to use fascism to preserve capitalism while claiming to be saving democracy from communism.
 
 <div class = "sidenote leftnote"><img src ="roy.jpg"></img></div> 
+
+
+## Terry Pratchett
+Men at Arms: The Play
+> Take boots, for example. He earned thirty-eight dollars a month plus allowances. A really good pair of leather boots cost fifty dollars. But an affordable pair of boots, which were sort of OK for a season or two and then leaked like hell when the cardboard gave out, cost about ten dollars. Those were the kind of boots Vimes always bought, and wore until the soles were so thin that he could tell where he was in Ankh-Morpork on a foggy night by the feel of the cobbles.
+>
+> But the thing was that good boots lasted for years and years. A man who could afford fifty dollars had a pair of boots that'd still be keeping his feet dry in ten years' time, while the poor man who could only afford cheap boots would have spent a hundred dollars on boots in the same time and would **still have wet feet**.
 
 ## Arundhati Roy
 *The Checkbook and the Cruise Missile*
