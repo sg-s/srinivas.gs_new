@@ -261,6 +261,9 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 
 
 ## Bill Haywood
+> The mine owners did not find the gold, they did not mine the gold, they did not mill the gold, but by some weird alchemy all the gold belonged to them!
+
+## Bill Haywood
 > I've never read Marx's Kapital, but I have the marks of capital all over my body. 
 
 
