@@ -261,6 +261,11 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 ## Anatole France
 > The law, in its majestic equality, forbids the rich as well as the poor to sleep under bridges, to beg in the streets, and to steal bread.
 
+
+## Emma Goldman
+> If voting changed anything, they'd make it illegal.
+
+
 ## Hermann Göring 
 [statement at the Nuremberg trials](http://www.snopes.com/quotes/goering.asp)
 > Naturally the common people don't want war: Neither in Russia, nor in England, nor for that matter in Germany. That is understood. But, after all, it is the leaders of the country who determine the policy and it is always a simple matter to drag the people along, whether it is a democracy, or a fascist dictatorship, or a parliament, or a communist dictatorship. Voice or no voice, the people can always be brought to the bidding of the leaders. That is easy. *All you have to do is tell them they are being attacked, and denounce the peacemakers for lack of patriotism and exposing the country to danger. It works the same in any country.*
