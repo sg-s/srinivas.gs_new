@@ -105,7 +105,7 @@ Rather, courage is the intellectual mastery of fear by understanding the true ri
 
 
 ## William Blum
-from Killing Hope: US Military And CIA Interventions Since World War II
+*from Killing Hope: US Military And CIA Interventions Since World War II*
 > The boys of Capital, they also chortle in their martinis about the death of socialism. The word has been banned from polite conversation. And they hope no one will notice that every socialist experiment of any significance in the twentieth century — without exception — was either overthrown, invaded, corrupted, perverted, subverted, destabilized, or otherwise had life made impossible for it, by the United States and its allies. Not one socialist government or movement — from the Russian Revolution to the Sandinistas in Nicaragua, from Communist China to the FMLN in El Salvador — not one was permitted to rise or fall solely on its own merits; not one was left secure enough to drop its guard against the all-powerful enemy abroad and freely and fully relax control at home. It’s as if the Wright brothers’ first experiments with flying machines all failed because the automobile interests sabotaged each test flight. And then the good and god-fearing folk of the world looked upon these catastrophes, nodded their heads wisely, and intoned solemnly: Humankind shall never fly.
 
 
@@ -290,7 +290,7 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 ## Bill Haywood
 > The mine owners did not find the gold, they did not mine the gold, they did not mill the gold, but by some weird alchemy all the gold belonged to them!
 
-## Bill Haywood
+
 > I've never read Marx's Kapital, but I have the marks of capital all over my body. 
 
 
@@ -302,7 +302,7 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 [*The Cypherpunk manifesto*](http://www.activism.net/cypherpunk/manifesto.html)
 > Cypherpunks write code.
 
-<div class = "sidenote leftnote"><img src ="huxley.jpg"></img></div> 
+
 
 ## Victor Hugo
 > The paradise of the rich is made out of the hell of the poor. 
@@ -313,6 +313,7 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 <br>
 
 
+<div class = "sidenote leftnote"><img src ="huxley.jpg"></img></div> 
 
 ## Aldous Huxley
 [*Island*](https://en.wikipedia.org/wiki/Island_(Huxley_novel))
@@ -364,7 +365,7 @@ letter to Elisabeth Nietzsche
 ## Michael Parenti
 > It is the heart of U.S. policy, ladies and gentlemen, to use fascism to preserve capitalism while claiming to be saving democracy from communism.
 
-<div class = "sidenote leftnote"><img src ="roy.jpg"></img></div> 
+
 
 
 ## Terry Pratchett
@@ -372,6 +373,8 @@ Men at Arms: The Play
 > Take boots, for example. He earned thirty-eight dollars a month plus allowances. A really good pair of leather boots cost fifty dollars. But an affordable pair of boots, which were sort of OK for a season or two and then leaked like hell when the cardboard gave out, cost about ten dollars. Those were the kind of boots Vimes always bought, and wore until the soles were so thin that he could tell where he was in Ankh-Morpork on a foggy night by the feel of the cobbles.
 >
 > But the thing was that good boots lasted for years and years. A man who could afford fifty dollars had a pair of boots that'd still be keeping his feet dry in ten years' time, while the poor man who could only afford cheap boots would have spent a hundred dollars on boots in the same time and would **still have wet feet**.
+
+<div class = "sidenote leftnote"><img src ="roy.jpg"></img></div> 
 
 ## Arundhati Roy
 *The Checkbook and the Cruise Missile*
