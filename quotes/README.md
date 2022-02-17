@@ -425,6 +425,10 @@ Men at Arms: The Play
 [*Interview with OUGH!*](https://www.gnu.org/philosophy/ough-interview.en.html)
 > With software there are only two possibilites: either the users control the programme or the programme controls the users. If the programme controls the users, and the developer controls the programme, then the programme is an instrument of unjust power. 
 
+## John Steinbeck
+[The grapes of wrath](https://en.wikipedia.org/wiki/The_Grapes_of_Wrath)
+> There is a crime here that goes beyond denunciation. There is a sorrow here that weeping cannot symbolize. There is a failure here that topples all our success. The fertile earth, the straight tree rows, the sturdy trunks, and the ripe fruit. And children dying of pellagra must die because a profit cannot be taken from an orange. And coroners must fill in the certificates—died of malnutrition—because the food must rot, must be forced to rot.
+
 ## Matt Taibbi
 [*America Is Too Dumb for TV News*](http://www.rollingstone.com/politics/news/america-is-too-dumb-for-tv-news-20151125)
 > When you make the news into this kind of consumer business, pretty soon audiences lose the ability to distinguish between what they think they're doing, informing themselves, and what they're actually doing, shopping.
