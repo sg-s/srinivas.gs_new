@@ -211,6 +211,7 @@ Freedman: “Massa, how many days’ labor have I lost by you?”
 > Most people are never going to die because they are never going to be born. The potential people who could have been here in my place but who will in fact never see the light of day outnumber the sand grains of Arabia. Certainly those unborn ghosts include greater poets than Keats, scientists greater than Newton. We know this because the set of possible people allowed by our DNA so massively exceeds the set of actual people. In the teeth of these stupefying odds it is you and I, in our ordinariness, that are here.We privileged few, who won the lottery of birth against all odds, how dare we whine at our inevitable return to that prior state from which the vast majority have never stirred?
 
 <div class = "sidenote">I first heard this on <a href = "https://en.wikipedia.org/wiki/Fall_of_Efrafa">Fall of Efrafa</a>'s <a href = "https://www.youtube.com/watch?v=CqCi-x87ec0">Dominion Theology</a>. </div>
+
 *The God Delusion*
 > The God of the Old Testament is arguably the most unpleasant character in all fiction: jealous and proud of it; a petty, unjust, unforgiving control-freak; a vindictive, bloodthirsty ethnic cleanser; a misogynistic, homophobic, racist, infanticidal, genocidal, filicidal, pestilential, megalomaniacal, sadomasochistic, capriciously malevolent bully.
 
@@ -249,7 +250,7 @@ Freedman: “Massa, how many days’ labor have I lost by you?”
 This world in arms is not spending money alone. It is spending the sweat of its laborers, the genius of its scientists, the hopes of its children. The cost of one modern heavy bomber is this: a modern brick school in more than 30 cities. It is two electric power plants, each serving a town of 60,000 population. It is two fine, fully equipped hospitals. It is some fifty miles of concrete pavement. We pay for a single fighter with a half-million bushels of wheat. We pay for a single destroyer with new homes that could have housed more than 8,000 people. . . . This is not a way of life at all, in any true sense. Under the cloud of threatening war, it is humanity hanging from a cross of iron.
 
 ## John Ehrlichman 
-[interview with Harpers](https://en.wikipedia.org/wiki/John_Ehrlichman#War_on_drugs)
+[*interview with Harpers*](https://en.wikipedia.org/wiki/John_Ehrlichman#War_on_drugs)
 > The Nixon campaign in 1968, and the Nixon White House after that, had two enemies: the antiwar left and black people. You understand what I’m saying? We knew we couldn’t make it illegal to be either against the war or black, but by getting the public to associate the hippies with marijuana and blacks with heroin, and then criminalizing both heavily, we could disrupt those communities. We could arrest their leaders, raid their homes, break up their meetings, and vilify them night after night on the evening news. Did we know we were lying about the drugs? Of course we did. 
 
 ## E M Forster
@@ -267,7 +268,7 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 
 
 ## Hermann Göring 
-[statement at the Nuremberg trials](http://www.snopes.com/quotes/goering.asp)
+[*statement at the Nuremberg trials*](http://www.snopes.com/quotes/goering.asp)
 > Naturally the common people don't want war: Neither in Russia, nor in England, nor for that matter in Germany. That is understood. But, after all, it is the leaders of the country who determine the policy and it is always a simple matter to drag the people along, whether it is a democracy, or a fascist dictatorship, or a parliament, or a communist dictatorship. Voice or no voice, the people can always be brought to the bidding of the leaders. That is easy. *All you have to do is tell them they are being attacked, and denounce the peacemakers for lack of patriotism and exposing the country to danger. It works the same in any country.*
 
 <div class = "sidenote leftnote"><img src ="greene.jpg"></img></div> 
@@ -285,7 +286,7 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 <div class = "sidenote leftnote"><img src ="grossman.jpg"></img></div> 
 
 ## Vasily Semyonovich Grossman 
-> It is only [in Stalingrad] that people know what a kilometre is. A kilometre is one thousand metres. It is one hundred thousand centimetres. 
+> It is only in Stalingrad that people know what a kilometre is. A kilometre is one thousand metres. It is one hundred thousand centimetres. 
 
 <br>
 <br>
@@ -363,7 +364,7 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 <div class = "sidenote leftnote"><img src ="nietzsche.jpg"></img></div> 
 
 ## Friedrich Nietzsche 
-letter to Elisabeth Nietzsche
+*letter to Elisabeth Nietzsche*
 > Every true faith is infallible. It performs what the believing person hopes to find in it. But it does not offer the least support for the establishing of an objective truth. Here the ways of men divide. If you want to achieve peace of mind and happiness, have faith. If you want to be a disciple of truth, then search.
 
 
@@ -374,7 +375,7 @@ letter to Elisabeth Nietzsche
 
 
 ## Terry Pratchett
-Men at Arms: The Play
+*Men at Arms: The Play*
 > Take boots, for example. He earned thirty-eight dollars a month plus allowances. A really good pair of leather boots cost fifty dollars. But an affordable pair of boots, which were sort of OK for a season or two and then leaked like hell when the cardboard gave out, cost about ten dollars. Those were the kind of boots Vimes always bought, and wore until the soles were so thin that he could tell where he was in Ankh-Morpork on a foggy night by the feel of the cobbles.
 >
 > But the thing was that good boots lasted for years and years. A man who could afford fifty dollars had a pair of boots that'd still be keeping his feet dry in ten years' time, while the poor man who could only afford cheap boots would have spent a hundred dollars on boots in the same time and would **still have wet feet**.
@@ -423,11 +424,17 @@ Men at Arms: The Play
 > While corporations dominate society and write the laws, each advance in technology is an opening for them to further restrict its users.
 
 [*Interview with OUGH!*](https://www.gnu.org/philosophy/ough-interview.en.html)
-> With software there are only two possibilites: either the users control the programme or the programme controls the users. If the programme controls the users, and the developer controls the programme, then the programme is an instrument of unjust power. 
+> With software there are only two possibilities: either the users control the program or the program controls the users. If the program controls the users, and the developer controls the program, then the program is an instrument of unjust power. 
 
 ## John Steinbeck
-[The grapes of wrath](https://en.wikipedia.org/wiki/The_Grapes_of_Wrath)
-> There is a crime here that goes beyond denunciation. There is a sorrow here that weeping cannot symbolize. There is a failure here that topples all our success. The fertile earth, the straight tree rows, the sturdy trunks, and the ripe fruit. And children dying of pellagra must die because a profit cannot be taken from an orange. And coroners must fill in the certificates—died of malnutrition—because the food must rot, must be forced to rot.
+[*The grapes of wrath*](https://en.wikipedia.org/wiki/The_Grapes_of_Wrath)
+>The works of the roots of the vines, of the trees, must be destroyed to keep up the price, and this is the saddest, bitterest thing of all. Carloads of oranges dumped on the ground. The people came for miles to take the fruit, but this could not be. How would they buy oranges at twenty cents a dozen if they could drive out and pick them up? And men with hoses squirt kerosene on the oranges, and they are angry at the crime, angry at the people who have come to take the fruit. A million people hungry, needing the fruit- and kerosene sprayed over the golden mountains. And the smell of rot fills the country. Burn coffee for fuel in the ships. Burn corn to keep warm, it makes a hot fire. Dump potatoes in the rivers and place guards along the banks to keep the hungry people from fishing them out. Slaughter the pigs and bury them, and let the putrescence drip down into the earth.
+> <br>
+> <br>
+> There is a crime here that goes beyond denunciation. There is a sorrow here that weeping cannot symbolize. There is a failure here that topples all our success.
+> <br>
+> <br>
+> The fertile earth, the straight tree rows, the sturdy trunks, and the ripe fruit. And children dying of pellagra must die because a profit cannot be taken from an orange. And coroners must fill in the certificate- died of malnutrition- because the food must rot, must be forced to rot. The people come with nets to fish for potatoes in the river, and the guards hold them back; they come in rattling cars to get the dumped oranges, but the kerosene is sprayed. And they stand still and watch the potatoes float by, listen to the screaming pigs being killed in a ditch and covered with quick-lime, watch the mountains of oranges slop down to a putrefying ooze; and in the eyes of the people there is the failure; and in the eyes of the hungry there is a growing wrath. In the souls of the people the grapes of wrath are filling and growing heavy, growing heavy for the vintage.
 
 ## Matt Taibbi
 [*America Is Too Dumb for TV News*](http://www.rollingstone.com/politics/news/america-is-too-dumb-for-tv-news-20151125)
