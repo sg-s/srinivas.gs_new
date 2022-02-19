@@ -292,6 +292,9 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 <br>
 
 
+## Fred Hampton
+> We got to face some facts. That the masses are poor, that the masses belong to what you call the lower class, and when I talk about the masses, I'm talking about the white masses, I'm talking about the black masses, and the brown masses, and the yellow masses, too. We've got to face the fact that some people say you fight fire best with fire, but we say you put fire out best with water. We say you don't fight racism with racism. We're gonna fight racism with solidarity. We say you don't fight capitalism with no black capitalism; you fight capitalism with socialism.
+
 
 ## Bill Haywood
 > The mine owners did not find the gold, they did not mine the gold, they did not mill the gold, but by some weird alchemy all the gold belonged to them!
