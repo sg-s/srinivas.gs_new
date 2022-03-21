@@ -485,3 +485,6 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 
 > When you talk about today's global capitalism, I would say, don't talk only about countries which function more or less like western countries, mention also countries like the democratic republic of Congo, which doesn't even function as a country...the point is to see the republic of Congo not as a simple deviation, that it is not yet capitalism, that this is primitive, but precisely as part of the totality of today's capitalism. 
 
+
+[*The pervert's guide to ideology*](https://en.wikipedia.org/wiki/The_Pervert%27s_Guide_to_Ideology)
+> I already am eating from the trash can all the time. The name of this trash can is ideology. The material force of ideology makes me not see what I am effectively eating.
