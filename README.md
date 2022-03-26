@@ -137,7 +137,7 @@ Davide Raccuglia, Li Yan McCurdy, Mahmut Demir, Srinivas Gorur-Shandilya, Michae
 
 ### The *Drosophila* IR20a Clade of Ionotropic Receptors Are Candidate Taste and Pheromone Receptors
 
-<div class = "sidenote leftnote"><span id = "label"><a href = "https://scholar.google.com/citations?user=lTu-VxIAAAAJ"> 100+ citations </a> </span></div> 
+<div class = "sidenote leftnote"><span id = "label"><a href = "https://scholar.google.com/citations?user=lTu-VxIAAAAJ"> 200+ citations </a> </span></div> 
 
 Tong-Wey Koh, Zhe He, Srinivas Gorur-Shandilya, Karen Menuz, Nikki K. Larter, Shannon Stewart and John R. Carlson
 
