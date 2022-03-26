@@ -43,7 +43,7 @@ All code here is [free software](http://www.fsf.org/about/what-is-free-software)
 
 Srinivas Gorur-Shandilya, Elizabeth M. Cronin, Anna C. Schneider, Sara Ann Haddad, Philipp Rosenbaum, Dirk Bucher, Farzan Nadim, and Eve Marder
 
-[biorxiv](https://www.biorxiv.org/content/10.1101/2021.07.06.451370v1) | [code](https://github.com/sg-s/stg-embedding/) | [interactive visualization](https://srinivas.gs/stg/)
+[eLife 2022](https://elifesciences.org/articles/76579) | [code](https://github.com/sg-s/stg-embedding/) | [interactive visualization](https://srinivas.gs/stg/)
 
 
 
