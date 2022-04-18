@@ -36,6 +36,14 @@ All code here is [free software](http://www.fsf.org/about/what-is-free-software)
 
 [Google Scholar ↗](https://scholar.google.com/citations?user=lTu-VxIAAAAJ)
 
+
+### MED13 and Glycolysis Are Conserved Modifiers of α-Synuclein-Associated Neurodegeneration
+
+Ren, Mengda and Yang, Ying and Heng, Kelsey Hwee Yee and Ng, Lu Yi and Chong, Claris Yuin-Yi and Ng, Yan Ting and Gorur-Shandilya, Srinivas and Lee, Rachel Min Qi and Lim, Kah Leong and Zhang, Jing and Koh, Tong-Wey.
+
+[preprint](https://ssrn.com/abstract=4083382)
+
+
 <div class = "sidenote leftnote"><span id = "label"><img src = '../assets/stg-embedding.png'></span></div> 
 
 ### Mapping circuit dynamics during function and dysfunction 
