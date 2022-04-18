@@ -345,6 +345,12 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 <div class = "sidenote leftnote"><img src ="mlk.jpg"></img></div> 
 
 ## Martin Luther King
+
+
+[*The three evils of society*](https://www.scribd.com/doc/134362247/Martin-Luther-King-Jr-The-Three-Evils-of-Society-1967#scribd)
+> We have deluded ourselves into believing the myth that capitalism grew and prospered out of the Protestant ethic of hard work and sacrifices. Capitalism was built on the exploitation of black slaves and continues to thrive on the exploitation of the poor, both black and white, both here and abroad.
+
+
 [*Beyond Vietnam — a Time to Break Silence*](http://www.americanrhetoric.com/speeches/mlkatimetobreaksilence.htm)
 > This way of settling differences is not just. This business of burning human beings with napalm, of filling our nation's homes with orphans and widows, of injecting poisonous drugs of hate into the veins of peoples normally humane, of sending men home from dark and bloody battlefields physically handicapped and psychologically deranged, cannot be reconciled with wisdom, justice, and love.
 
