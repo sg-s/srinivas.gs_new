@@ -381,6 +381,9 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 > Every true faith is infallible. It performs what the believing person hopes to find in it. But it does not offer the least support for the establishing of an objective truth. Here the ways of men divide. If you want to achieve peace of mind and happiness, have faith. If you want to be a disciple of truth, then search.
 
 
+## Mr Peanutbutter
+> The universe is a cruel, uncaring void. The key to being happy isn't a search for meaning. It's to just keep yourself busy with unimportant nonsense, and eventually, you'll be dead.
+
 ## Michael Parenti
 > It is the heart of U.S. policy, ladies and gentlemen, to use fascism to preserve capitalism while claiming to be saving democracy from communism.
 
