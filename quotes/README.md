@@ -366,6 +366,9 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 [*Freedom from the known (Chapter 6)*](http://www.jkrishnamurti.org/krishnamurti-teachings/print.php?tid=48&chid=56789)
 >  When you call yourself an Indian or a Muslim or a Christian or a European, or anything else, you are being violent. Do you see why it is violent? Because you are separating yourself from the rest of mankind. When you separate yourself by belief, by nationality, by tradition, it breeds violence. So a man who is seeking to understand violence does not belong to any country, to any religion, to any political party or partial system; he is concerned with the total understanding of mankind.
 
+[*As quoted in The Eden Express (1975) by Mark Vonnegut, p. 208*](https://www.reddit.com/r/Krishnamurti/comments/gw8tmg/in_which_book_did_krishnamurti_said_the_line_it/ft0lu35/)
+> It is no measure of health to be well adjusted to a profoundly sick society
+
 ## Ursula K. Le Guin
 *[acceptance speech for the National Book Foundation’s 2014 Medal for Distinguished Contribution to American Letters](https://www.newyorker.com/books/page-turner/national-book-awards-ursula-le-guin)*
 > We live in capitalism. Its power seems inescapable. So did the divine right of kings. Any human power can be resisted and changed by human beings. Resistance and change often begin in art, and very often in our art, the art of words.
