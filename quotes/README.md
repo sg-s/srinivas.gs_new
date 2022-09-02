@@ -220,6 +220,9 @@ Freedman: “Massa, how many days’ labor have I lost by you?”
 > There is more than just grandeur in this view of life, bleak and cold it may seem from under the security blanket of ignorance. There is deep refreshment to be had from standing up full-face into the keen wind of understanding. 
 
 
+## Simone de Beauvoir
+> The oppressor would not be so strong if he did not have accomplices among the oppressed
+
 ## Eugene Debs
 [Statement to the Court Upon Being Convicted of Violating the Sedition Act](https://www.marxists.org/archive/debs/works/1918/court.htm)
 > Years ago I recognized my kinship with all living beings, and I made up my mind that I was not one bit better than the meanest on earth. I said then, and I say now, that while there is a lower class, I am in it, and while there is a criminal element I am of it, and while there is a soul in prison, I am not free. 
@@ -253,9 +256,14 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 [*interview with Harpers*](https://en.wikipedia.org/wiki/John_Ehrlichman#War_on_drugs)
 > The Nixon campaign in 1968, and the Nixon White House after that, had two enemies: the antiwar left and black people. You understand what I’m saying? We knew we couldn’t make it illegal to be either against the war or black, but by getting the public to associate the hippies with marijuana and blacks with heroin, and then criminalizing both heavily, we could disrupt those communities. We could arrest their leaders, raid their homes, break up their meetings, and vilify them night after night on the evening news. Did we know we were lying about the drugs? Of course we did. 
 
+
+## Paulo Freire
+> When the education is not liberating, the dream of the oppressed is to become the oppressor
+
 ## E M Forster
 [A room with a view](https://en.wikipedia.org/wiki/A_Room_with_a_View)
 > Mistrust all enterprises that require new clothes. 
+
 
 
 
@@ -291,6 +299,9 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 <br>
 <br>
 
+
+## Fred Hampton
+> We don't need black Capitalism, we need Socialism
 
 ## Fred Hampton
 > We got to face some facts. That the masses are poor, that the masses belong to what you call the lower class, and when I talk about the masses, I'm talking about the white masses, I'm talking about the black masses, and the brown masses, and the yellow masses, too. We've got to face the fact that some people say you fight fire best with fire, but we say you put fire out best with water. We say you don't fight racism with racism. We're gonna fight racism with solidarity. We say you don't fight capitalism with no black capitalism; you fight capitalism with socialism.
