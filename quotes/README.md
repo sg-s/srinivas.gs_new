@@ -490,6 +490,11 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 > <br>
 > There is also this to be said. It is immoral to use private property in order to alleviate the horrible evils that result from the institution of private property. It is both immoral and unfair.
 
+
+## Frank Wilhoit
+[*comment in Crooked Timber*](https://slate.com/business/2022/06/wilhoits-law-conservatives-frank-wilhoit.html)
+> Conservatism consists of exactly one proposition …There must be in-groups whom the law protects but does not bind, alongside out-groups whom the law binds but does not protect.” 
+
 ## Frank Zappa
 > Without deviation from the norm, progress is not possible.
 
