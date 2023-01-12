@@ -220,6 +220,9 @@ Freedman: “Massa, how many days’ labor have I lost by you?”
 > There is more than just grandeur in this view of life, bleak and cold it may seem from under the security blanket of ignorance. There is deep refreshment to be had from standing up full-face into the keen wind of understanding. 
 
 
+## Simone de Beauvoir
+> The oppressor would not be so strong if he did not have accomplices among the oppressed
+
 ## Eugene Debs
 [Statement to the Court Upon Being Convicted of Violating the Sedition Act](https://www.marxists.org/archive/debs/works/1918/court.htm)
 > Years ago I recognized my kinship with all living beings, and I made up my mind that I was not one bit better than the meanest on earth. I said then, and I say now, that while there is a lower class, I am in it, and while there is a criminal element I am of it, and while there is a soul in prison, I am not free. 
@@ -253,9 +256,18 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 [*interview with Harpers*](https://en.wikipedia.org/wiki/John_Ehrlichman#War_on_drugs)
 > The Nixon campaign in 1968, and the Nixon White House after that, had two enemies: the antiwar left and black people. You understand what I’m saying? We knew we couldn’t make it illegal to be either against the war or black, but by getting the public to associate the hippies with marijuana and blacks with heroin, and then criminalizing both heavily, we could disrupt those communities. We could arrest their leaders, raid their homes, break up their meetings, and vilify them night after night on the evening news. Did we know we were lying about the drugs? Of course we did. 
 
+
+## Barbara Ehrenreich
+[*Nickel and Dimed: On (Not) Getting by in America*](https://en.wikipedia.org/wiki/Nickel_and_Dimed)
+> When someone works for less pay than she can live on — when, for example, she goes hungry so that you can eat more cheaply and conveniently — then she has made a great sacrifice for you, she has made you a gift of some part of her abilities, her health, and her life. The 'working poor,' as they are approvingly termed, are in fact the major philanthropists of our society. They neglect their own children so that the children of others will be cared for; they live in substandard housing so that other homes will be shiny and perfect; they endure privation so that inflation will be low and stock prices high. To be a member of the working poor is to be an anonymous donor, a nameless benefactor, to everyone else.
+
+## Paulo Freire
+> When the education is not liberating, the dream of the oppressed is to become the oppressor
+
 ## E M Forster
 [A room with a view](https://en.wikipedia.org/wiki/A_Room_with_a_View)
 > Mistrust all enterprises that require new clothes. 
+
 
 
 
@@ -306,6 +318,9 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 ## Robert Heinlein
 [*Time Enough for Love*](https://en.wikipedia.org/wiki/Competent_man)
 > A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyse a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.
+
+## Herodotus
+> Of all men's miseries the bitterest is this: to know so much and to have control over nothing.
 
 ## Eric Hughes
 [*The Cypherpunk manifesto*](http://www.activism.net/cypherpunk/manifesto.html)
@@ -366,6 +381,9 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 [*Freedom from the known (Chapter 6)*](http://www.jkrishnamurti.org/krishnamurti-teachings/print.php?tid=48&chid=56789)
 >  When you call yourself an Indian or a Muslim or a Christian or a European, or anything else, you are being violent. Do you see why it is violent? Because you are separating yourself from the rest of mankind. When you separate yourself by belief, by nationality, by tradition, it breeds violence. So a man who is seeking to understand violence does not belong to any country, to any religion, to any political party or partial system; he is concerned with the total understanding of mankind.
 
+[*As quoted in The Eden Express (1975) by Mark Vonnegut, p. 208*](https://www.reddit.com/r/Krishnamurti/comments/gw8tmg/in_which_book_did_krishnamurti_said_the_line_it/ft0lu35/)
+> It is no measure of health to be well adjusted to a profoundly sick society
+
 ## Ursula K. Le Guin
 *[acceptance speech for the National Book Foundation’s 2014 Medal for Distinguished Contribution to American Letters](https://www.newyorker.com/books/page-turner/national-book-awards-ursula-le-guin)*
 > We live in capitalism. Its power seems inescapable. So did the divine right of kings. Any human power can be resisted and changed by human beings. Resistance and change often begin in art, and very often in our art, the art of words.
@@ -380,6 +398,9 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 *letter to Elisabeth Nietzsche*
 > Every true faith is infallible. It performs what the believing person hopes to find in it. But it does not offer the least support for the establishing of an objective truth. Here the ways of men divide. If you want to achieve peace of mind and happiness, have faith. If you want to be a disciple of truth, then search.
 
+
+## Mr Peanutbutter
+> The universe is a cruel, uncaring void. The key to being happy isn't a search for meaning. It's to just keep yourself busy with unimportant nonsense, and eventually, you'll be dead.
 
 ## Michael Parenti
 > It is the heart of U.S. policy, ladies and gentlemen, to use fascism to preserve capitalism while claiming to be saving democracy from communism.
@@ -468,6 +489,11 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 > <br>
 > <br>
 > There is also this to be said. It is immoral to use private property in order to alleviate the horrible evils that result from the institution of private property. It is both immoral and unfair.
+
+
+## Frank Wilhoit
+[*comment in Crooked Timber*](https://slate.com/business/2022/06/wilhoits-law-conservatives-frank-wilhoit.html)
+> Conservatism consists of exactly one proposition …There must be in-groups whom the law protects but does not bind, alongside out-groups whom the law binds but does not protect.” 
 
 ## Frank Zappa
 > Without deviation from the norm, progress is not possible.
