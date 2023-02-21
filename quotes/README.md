@@ -422,6 +422,10 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 
 <div class = "sidenote leftnote"><img src ="said.jpg"></img></div>  
 
+
+## Hunter S Thompson 
+> In a closed society where everybody's guilty, the only crime is getting caught. In a world of thieves, the only final sin is stupidity.
+
 ## Edward Said 
 [*The Reith Lectures: Speaking Truth To Power*](http://www.independent.co.uk/life-style/the-reith-lectures-speaking-truth-to-power-in-his-penultimate-reith-lecture-edward-said-considers-the-basic-question-for-the-intellectual-how-does-one-speak-the-truth-this-is-an-edited-text-of-last-nights-radio-4-broadcast-1486359.html)
 
