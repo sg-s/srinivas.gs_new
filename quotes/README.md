@@ -399,6 +399,16 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 > Every true faith is infallible. It performs what the believing person hopes to find in it. But it does not offer the least support for the establishing of an objective truth. Here the ways of men divide. If you want to achieve peace of mind and happiness, have faith. If you want to be a disciple of truth, then search.
 
 
+## notacoward
+*[hackernews comment](https://news.ycombinator.com/item?id=15659076)*
+> Entrepreneurship is like one of those carnival games where you throw darts or something.
+>
+> Middle class kids can afford one throw. Most miss. A few hit the target and get a small prize. A very few hit the center bullseye and get a bigger prize. Rags to riches! The American Dream lives on.
+> 
+> Rich kids can afford many throws. If they want to, they can try over and over and over again until they hit something and feel good about themselves. Some keep going until they hit the center bullseye, then they give speeches or write blog posts about "meritocracy" and the salutary effects of hard work.
+> 
+> Poor kids aren't visiting the carnival. They're the ones working it. 
+
 ## Mr Peanutbutter
 > The universe is a cruel, uncaring void. The key to being happy isn't a search for meaning. It's to just keep yourself busy with unimportant nonsense, and eventually, you'll be dead.
 
