@@ -6,6 +6,18 @@
 
 <div class = "sidenote leftnote"><img src ="ali.jpg"></img></div>  
 
+## an old nursery rhyme 
+
+> They hang the man and flog the woman 
+> That steal the goose from off the common,
+> But let the greater villain loose
+> That steals the common from the goose.
+> 
+> The law demands that we atone
+> When we take things we do not own, 
+> But leaves the lords and ladies fine
+> Who take things that are yours and mine.
+
 ## Muhammad Ali
 [*On being drafted into the Vietnam War*](https://www.youtube.com/watch?v=HeFMyrWlZ68)
 > My conscience won't let me go shoot my brother, or some darker people, or some poor hungry people in the mud for big powerful America. And shoot them for what? They never called me nigger, they never lynched me, they didn't put no dogs on me, they didn't rob me of my nationality, rape and kill my mother and father ... shoot them for what? How can I shoot them poor people? Just take me to jail.
