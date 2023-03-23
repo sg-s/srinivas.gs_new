@@ -4,7 +4,7 @@
 </div>
 
 
-<div class = "sidenote leftnote"><img src ="ali.jpg"></img></div>  
+
 
 ## an old nursery rhyme 
 
@@ -17,6 +17,9 @@
 > When we take things we do not own, 
 > But leaves the lords and ladies fine
 > Who take things that are yours and mine.
+
+
+<div class = "sidenote leftnote"><img src ="ali.jpg"></img></div>  
 
 ## Muhammad Ali
 [*On being drafted into the Vietnam War*](https://www.youtube.com/watch?v=HeFMyrWlZ68)
