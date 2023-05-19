@@ -1,0 +1,22 @@
+
+[tool.black]
+line-length = 79
+
+
+[tool.poetry]
+name = "srinivas-gs"
+version = "23.5.19"
+description = "My website"
+authors = ["Srinivas Gorur-Shandilya <code@srinivas.gs>"]
+readme = "README.md"
+packages = [{include = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+Markdown = "^3.4.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
