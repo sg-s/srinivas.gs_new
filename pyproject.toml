@@ -23,3 +23,8 @@ marko = "^2.0.0"
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
+
+
+
+[tool.poetry.scripts]
+python_lists = "src.make_python_lists:make"

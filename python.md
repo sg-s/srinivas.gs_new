@@ -18,3 +18,19 @@ unfireable.
 ## [The Grand Unified Theory of Software Architecture](https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html)
 
 Describes the "clean architecture" for separating interfaces, and core logic. 
+
+
+## [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
+
+A useful reference to come back to
+
+
+## [Beartype docs](https://beartype.readthedocs.io/en/latest/)
+
+The documentation for beartype is...wild. 
+It's certainly not for everyone but I love it. 
+It's detailed, informative, and so much **fun** to read.
+
+## [Python Magic Methods You Haven't Heard About](https://martinheinz.dev/blog/87)
+
+When I read this the first time I certainly learnt a thing or two. 
