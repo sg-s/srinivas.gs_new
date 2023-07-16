@@ -14,6 +14,8 @@ packages = [{include = "src"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 Markdown = "^3.4.3"
+ipykernel = "*"
+jinja2 = "*"
 
 
 [build-system]

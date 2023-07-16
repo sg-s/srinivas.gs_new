@@ -9,10 +9,11 @@
                     <h5 class="card-title">{{ card_title}}</h5>
                     <p class="card-text">{{ card_text }}</p>
                     <p class="card-text">
-                        <span class="badge text-bg-light">data visualization</span>
-                        <span class="badge text-bg-light">bokeh</span>
-                        <span class="badge text-bg-light">neuroscience</span>
-                        <span class="badge text-bg-light">dimensionality reduction</span>
+
+                        {% for badge in badges %}
+                        <span class="badge text-bg-light">{{ badge }}</span>
+                        {% endfor %}
+
                     </p>
                 </div>
             </div>

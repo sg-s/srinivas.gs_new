@@ -1,3 +1,8 @@
+# python stuff
+*.pyc
+poetry.lock
+**__pycache__**
+
 *.key
 *DS_Store
 *sublime-workspace
