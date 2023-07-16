@@ -16,6 +16,7 @@ python = "^3.11"
 Markdown = "^3.4.3"
 ipykernel = "*"
 jinja2 = "*"
+marko = "^2.0.0"
 
 
 [build-system]
