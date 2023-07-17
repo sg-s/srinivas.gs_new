@@ -6,8 +6,11 @@ import glob
 import os
 
 from jinja2 import Environment, FileSystemLoader
+from urllib3.util import parse_url
 
-file_path = "/Users/srinivas/code/srinivas.gs/python.md"
+import marko
+
+file_path = "/Users/srinivas/code/srinivas.gs/lists/python.md"
 with open(file_path, "r") as f:
     txt = f.readlines()
 
@@ -16,6 +19,7 @@ titles = []
 links = []
 text_blocks = []
 ignore = True
+hostnames = []
 
 paragraph = ""
 
@@ -26,7 +30,7 @@ for line in txt:
     ignore = False
     if "##" in line:
         if len(paragraph) > 0:
-            text_blocks.append(paragraph)
+            text_blocks.append(marko.convert(paragraph))
             paragraph = ""
 
         title, link = line.split("]")
@@ -34,10 +38,13 @@ for line in txt:
         link = link.replace(")\n", "")
         links.append(link[1:])
 
+        hostname = parse_url(link[1:]).hostname
+        hostnames.append(hostname)
+
     else:
         paragraph += line
 
-text_blocks.append(paragraph)
+text_blocks.append(marko.convert(paragraph))
 
 
 template_dir = "/Users/srinivas/code/srinivas.gs/templates"
@@ -53,9 +60,17 @@ for template in template_files:
 
 def make():
     cards = []
-    for title, link, text in zip(titles, links, text_blocks):
+    for title, link, text, hostname in zip(
+        titles,
+        links,
+        text_blocks,
+        hostnames,
+    ):
         card = templates["card-no-img"].render(
-            card_title=title, card_text=text, card_link=link
+            card_title=title,
+            card_text=text,
+            card_link=link,
+            card_subtitle=hostname,
         )
         cards.append(card)
 
