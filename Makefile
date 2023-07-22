@@ -10,6 +10,11 @@ python:
 	poetry run python src/make_python_lists.py
 	open lists/python/index.html
 
+youtube:
+	poetry run python src/make_youtube_list.py
+	open lists/youtube/index.html
+
+
 jupyter:
 	@echo "Installing kernel <site> in jupyter"
 	-yes | jupyter kernelspec uninstall site

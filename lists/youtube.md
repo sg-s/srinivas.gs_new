@@ -1,20 +1,22 @@
-# My python reading list
+# My YouTube Media diet
 
-This list contains things I have read about python that
-I found to be vaguely useful.
+I watch a fair bit of content on YouTube. This list 
+is a semi-random, non-ordered collection of channels I
+watch, with some notes about each. 
 
 
-## [Why Python 3 exists](https://snarky.ca/why-python-3-exists/)
+## [ 3Blue1Brown ](https://www.youtube.com/@3blue1brown)
 
-TLDR: it's unicode. 
+Watching a 3Blue1Brown video is like reading GEB -- it 
+feels like someone is injecting something sublime directly
+into your brain and you can glimpse at beauty you could
+never imagine every now and then.
+
+- [The Windmill question](https://www.youtube.com/watch?v=M64HUIJFTZM)
+- [How to lie using visual proofs](https://www.youtube.com/watch?v=VYQVlVoWoPY&t=961s)
 
 ## [How to write unmaintainable code](http://www2.imm.dtu.dk/courses/02161/2018/files/how_to_write_unmaintainable_code.pdf)
 
-Absolutely essential reading (with tongue firmly in cheek) 
-for those who want to write code that will make them
-unfireable.
-
-@important
 
 
 
