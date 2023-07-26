@@ -1,12 +1,16 @@
 <div class="col">
     <div class="card mb-3 shadow-sm {{ card_style }}">
         <div class="row g-0">
-            <img src="{{ img_src }}" class="card-img-top" alt="...">
             <div class="card-body">
-                <h5 class="card-title">{{ card_title }}</h5>
+                <a href="{{ card_link }}" class="d-flex align-items-center pb-3 mb-3 link-body-emphasis text-decoration-none border-bottom">
+                    <img src="{{ img_src }}" width="50px" class="mr-2">
+
+                        <h4>&nbsp;&nbsp;{{ card_title }}</h4>
+
+                </a>
                 <p class="card-text">{{ card_text }}</p>
             </div>
-            <ul class="list-group list-group-flush">
+            <ul class="list-group list-group-flush border-bottom border-top">
                 {% for link, link_text in links %}
                 <a href="{{ link }}" class="list-group-item list-group-item-action">{{ link_text }}</a>
                 {% endfor %}

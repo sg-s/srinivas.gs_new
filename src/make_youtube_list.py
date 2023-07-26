@@ -11,38 +11,55 @@ from pywebcopy import save_webpage
 from urllib3.util import parse_url
 
 file_path = "/Users/srinivas/code/srinivas.gs/lists/youtube.md"
-with open(file_path, "r") as f:
-    txt = f.readlines()
 
 
-titles = []
-channel_links = []
-video_links = []
-text_blocks = []
-ignore = True
+# parse a md file
 
 
-paragraph = ""
+def parse_md_file(filename: str) -> dict:
+    with open(filename, "r") as file:
+        txt = file.read()
 
-for line in txt:
-    if "##" not in line and ignore:
-        continue
+    sections = txt.split("##")
 
-    ignore = False
-    if "##" in line:
-        if len(paragraph) > 0:
-            text_blocks.append(marko.convert(paragraph))
-            paragraph = ""
+    header = sections[0]
 
-        title, link = line.split("]")
-        titles.append(title.replace("## [", ""))
-        link = link.replace(")\n", "")
-        channel_links.append(link[1:])
+    sections = sections[1:]
 
-    else:
-        paragraph += line
+    data = []
 
-text_blocks.append(marko.convert(paragraph))
+    for section in sections:
+        this_data = dict()
+        lines = section.split("\n")
+
+        # first line is the header and link
+        title, link = lines[0].split("](")
+
+        this_data["title"] = title.replace("[", "").strip()
+        this_data["link"] = link.replace(")", "")
+
+        lines = lines[1:]
+
+        list_items = []
+        paragraph = ""
+
+        for line in lines:
+            if line[:2] == "- ":
+                list_text, list_link = line.split("](")
+                list_text = list_text.replace("- [", "")
+                list_link = list_link[:-1]
+
+                list_items.append((list_link, list_text))
+
+            else:
+                paragraph += line + "\n"
+
+        this_data["list_items"] = list_items
+        this_data["text"] = marko.convert(paragraph)
+
+        data.append(this_data)
+
+    return data
 
 
 template_dir = "/Users/srinivas/code/srinivas.gs/templates"
@@ -64,12 +81,12 @@ def make():
 
     # check every link to make sure it's online
 
+    all_items = parse_md_file(file_path)
+
     cards = []
-    for title, link, text in zip(
-        titles,
-        channel_links,
-        text_blocks,
-    ):
+    for item in all_items:
+        text = item["text"]
+
         if "@talk" in text:
             header = "talk"
         else:
@@ -83,13 +100,14 @@ def make():
         for token in tokens:
             text = text.replace(token, "")
 
-        card = templates["card-image-cap-list"].render(
-            card_title=title,
+        card = templates["youtube-card"].render(
+            card_title=item["title"],
             card_text=text,
-            card_link=link,
+            card_link=item["link"],
+            links=item["list_items"],
             header=header,
             card_style=card_style,
-            img_src=title.lower().strip() + ".jpg",
+            img_src=item["title"].lower().strip() + ".jpg",
         )
         cards.append(card)
 

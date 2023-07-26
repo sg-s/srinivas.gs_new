@@ -15,74 +15,71 @@ never imagine every now and then.
 - [The Windmill question](https://www.youtube.com/watch?v=M64HUIJFTZM)
 - [How to lie using visual proofs](https://www.youtube.com/watch?v=VYQVlVoWoPY&t=961s)
 
-## [How to write unmaintainable code](http://www2.imm.dtu.dk/courses/02161/2018/files/how_to_write_unmaintainable_code.pdf)
+## [The Engineer Guy](https://www.youtube.com/@engineerguyvideo)
+
+- [The Ingenious Design of the Aluminum Beverage Can ](https://www.youtube.com/watch?v=hUhisi2FBuw)
+- [Anodizing (Or the beauty of corrosion) ](https://www.youtube.com/watch?v=3ZhVOy-ytJY)
 
 
+## [World War Two](https://www.youtube.com/@WorldWarTwo)
+
+What's to say? I look forward to this every Saturday. 
+The vast majority of my brain is devoted to obscure factoids
+about World War and contemplating deployments during the
+[Great Patriotic War](https://en.wikipedia.org/wiki/Great_Patriotic_War_(term)). 
+
+It's hard to list any videos here because you really 
+have to watch the whole thing. 
 
 
+## [Welch Labs](https://www.youtube.com/@WelchLabsVideo)
 
-## [The Grand Unified Theory of Software Architecture](https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html)
+I don't know why I subscribed to this, or when, but they
+came out with a series on the Manhattan Project which is one
+of the most beautifully produced and informative videos I've
+ever seen. Truly spectacular.
 
-Describes the "clean architecture" for separating interfaces, and core logic. 
-
-
-## [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
-
-A useful reference to come back to
-
-
-## [Beartype docs](https://beartype.readthedocs.io/en/latest/)
-
-The documentation for beartype is...wild. 
-It's certainly not for everyone but I love it. 
-It's detailed, informative, and so much _fun_ to read.
-
-@important
-
-## [Python Magic Methods You Haven't Heard About](https://martinheinz.dev/blog/87)
-
-When I read this the first time I certainly learnt a thing or two. 
+- [The Most Dangerous Rock in the World](https://www.youtube.com/watch?v=y-FuqptTZow)
 
 
-## [Brandon Rhodes' PyCon Pandas tutorial](https://github.com/brandon-rhodes/pycon-pandas-tutorial)
+## [Technology Connections](https://www.youtube.com/@TechnologyConnections)
 
-Like almost anything from Brandon Rhodes, this is great. 
+Come for the truly awful puns, and spend several hours
+watching videos about dishwashers. Before you know it, 
+you're a zealot about the color brown and heat pumps. 
 
-@talk
+- [Detergent packs are kinda wishy-washy (Dishwashers Explained)](https://www.youtube.com/watch?v=_rBO8neWw04)
+- [Brown; color is weird ](https://www.youtube.com/watch?v=wh4aWZRtTwU)
+- [The Senseless Ambiguity of North American Turn Signals](https://www.youtube.com/watch?v=O1lZ9n2bxWA)
 
-## [Python Design Patterns](https://python-patterns.guide/)
+## [Veritasium](https://www.youtube.com/@veritasium)
 
-An absolutely useful reference for design patterns in python by Brandon Rhodes. 
-
-
-## [Modern Polars](https://kevinheavey.github.io/modern-polars/)
-
-An introduction to Polars and a comparison with Pandas. 
-I've never liked Pandas and always found it confusing and un-intuitive. 
-
-
-## [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-
-Uncle Bob's clean architecture<sup>™️</sup>. 
+I almost always enjoy a Veritasium video. He typically
+starts off with a big bold claim which seems outrageous at 
+first, and my immediate response is to say "No way that's
+true" -- but I've learnt by now that it doesn't pay to bet
+against him. A number of videos that have changed how 
+I think about things I thought I understood.
 
 
-## [Making lunch faster with Python concurrency](https://sourcery.ai/blog/concurrency/)
-
-A somewhat useful introduction to concurrency in python. 
-
-
-## [Learn by reading code: Python standard library design decisions explained](https://death.andgravity.com/stdlib)
-
-Someone who advocates for reading python's standard library to understand it. 
+- [The Big Misconception About Electricity](https://www.youtube.com/watch?v=bHIhgxav9LY)
+- [Why No One Has Measured The Speed Of Light ](https://www.youtube.com/watch?v=pTn6Ewhb27k)
+- [A Physics Prof Bet Me $10,000 I'm Wrong](https://www.youtube.com/watch?v=yCsgoLc_fzI)
+- [The Riddle That Seems Impossible Even If You Know The Answer](https://www.youtube.com/watch?v=iSNsgj1OCLA)
 
 
-## [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4)
+## [Tom Scott](https://www.youtube.com/@TomScottGo)
 
-There are currently three popular approaches to Python concurrency: threads, event loops, and coroutines. Each is shrouded by various degrees of mystery and peril.  In this talk, all three approaches will be deconstructed and explained in a epic ground-up live coding battle
+Tom Scott makes a video every week. And they're awesome. 
+If you've somehow gone this long without seeing a Tom Scott
+video, I'd love to know size of the rock you live under.
 
-@talk
+- [Do The Numbers On Toaster Dials Mean Minutes?](https://www.youtube.com/watch?v=gN_PK5pXmIY)
+- [I tried using AI. It scared me.](https://www.youtube.com/watch?v=jPhJbKBuNnA)
+- [Why Britain Uses Separate Hot and Cold Taps ](https://www.youtube.com/watch?v=HfHgUu_8KgA)
+- [Why Electronic Voting Is Still A Bad Idea ](https://www.youtube.com/watch?v=LkH2r-sNjQs)
 
 
-## [Python Has a Startup File!](https://www.assertnotmagic.com/2018/06/30/python-startup-file/)
+see this for downloading images from channels
 
-I didn't know about any of this when I read it. 
+https://www.reddit.com/r/commandline/comments/b3c7vt/a_simple_way_to_download_a_youtube_channel/
