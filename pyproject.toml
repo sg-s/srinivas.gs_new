@@ -19,6 +19,7 @@ jinja2 = "*"
 marko = "^2.0.0"
 urllib3 = "^2.0.3"
 pywebcopy = "^7.0.2"
+beartype = "^0.15.0"
 
 
 [build-system]
@@ -29,4 +30,4 @@ build-backend = "poetry.core.masonry.api"
 
 
 [tool.poetry.scripts]
-python_lists = "src.make_python_lists:make"
+make = "src:make"

@@ -5,7 +5,6 @@
 import glob
 import os
 
-import marko
 from jinja2 import Environment, FileSystemLoader
 from pywebcopy import save_webpage
 from urllib3.util import parse_url
@@ -14,52 +13,6 @@ file_path = "/Users/srinivas/code/srinivas.gs/lists/youtube.md"
 
 
 # parse a md file
-
-
-def parse_md_file(filename: str) -> dict:
-    with open(filename, "r") as file:
-        txt = file.read()
-
-    sections = txt.split("##")
-
-    header = sections[0]
-
-    sections = sections[1:]
-
-    data = []
-
-    for section in sections:
-        this_data = dict()
-        lines = section.split("\n")
-
-        # first line is the header and link
-        title, link = lines[0].split("](")
-
-        this_data["title"] = title.replace("[", "").strip()
-        this_data["link"] = link.replace(")", "")
-
-        lines = lines[1:]
-
-        list_items = []
-        paragraph = ""
-
-        for line in lines:
-            if line[:2] == "- ":
-                list_text, list_link = line.split("](")
-                list_text = list_text.replace("- [", "")
-                list_link = list_link[:-1]
-
-                list_items.append((list_link, list_text))
-
-            else:
-                paragraph += line + "\n"
-
-        this_data["list_items"] = list_items
-        this_data["text"] = marko.convert(paragraph)
-
-        data.append(this_data)
-
-    return data
 
 
 template_dir = "/Users/srinivas/code/srinivas.gs/templates"

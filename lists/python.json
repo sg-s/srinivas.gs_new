@@ -1,0 +1,29 @@
+[
+    {
+        "link": "https://snarky.ca/why-python-3-exists/",
+        "text": "TLDR: it's unicode.",
+        "title": "Why Python 3 exists"
+    },
+    {
+        "link": "http://www2.imm.dtu.dk/courses/02161/2018/files/how_to_write_unmaintainable_code.pdf",
+        "style": "important",
+        "text": "Absolutely essential reading (with tongue firmly in cheek) for those who want to write code that will make them unfireable.",
+        "title": "How to write unmaintainable code"
+    },
+    {
+        "link": "https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html",
+        "text": "Describes the clean architecture for separating interfaces, and core logic. ",
+        "title": "The Grand Unified Theory of Software Architecture"
+    },
+    {
+        "link": "https://gto76.github.io/python-cheatsheet/",
+        "text": "A useful reference to come back to",
+        "title": "Comprehensive Python Cheatsheet"
+    },
+    {
+        "link": "https://beartype.readthedocs.io/en/latest/",
+        "text": "The documentation for beartype is...wild. It's certainly not for everyone but I love it. It's detailed, informative, and so much _fun_ to read.",
+        "title": "Beartype docs",
+        "style": "important",
+    }
+]

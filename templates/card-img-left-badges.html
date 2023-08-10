@@ -1,0 +1,31 @@
+<div class="col">
+    <div class="card mb-3 shadow-sm">
+        <div class="row g-0">
+
+            {% if img %}
+                <div class="col-md-4 mt-2 ml-2">
+                    <img src="{{ img }}" class="img-fluid rounded-start" alt="...">
+                </div>
+            {% endif %}
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h5 class="card-title">{{ title}}</h5>
+                    <p class="card-text">{{ text }}</p>
+                    <p class="card-text">
+                        {% for badge in badges %}
+                        <span class="badge text-bg-light">{{ badge }}</span>
+                        {% endfor %}
+                    </p>
+                </div>
+            </div>
+            {% if footer_text %}
+            <div class="card-footer text-body-secondary">
+                {{ footer_text }}
+            </div>
+            {% endif %}
+        </div>
+        {% if link %}
+            <a href="{{ link }}" target="_blank" rel="noopener noreferrer" class="stretched-link"></a>
+        {% endif %}
+    </div>
+</div>
