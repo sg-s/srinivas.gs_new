@@ -7,7 +7,6 @@ import os
 
 import marko
 from jinja2 import Environment, FileSystemLoader
-from pywebcopy import save_webpage
 from urllib3.util import parse_url
 
 file_path = "/Users/srinivas/code/srinivas.gs/lists/python.md"
