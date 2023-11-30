@@ -1,5 +1,5 @@
-# makes HTML pages from markdown source, iteratively, in each folder
-
+# this script finds all readme.md files in this repo,
+# and converts them into HTML files for display
 
 import codecs
 import os
@@ -13,8 +13,9 @@ for root, dirs, files in os.walk("./"):
         if file.endswith("README.md"):
             all_paths.append(os.path.join(root, file))
 
+
 for path in all_paths:
-    print(path)
+    print(path, end=" ")
 
     path_root = path.replace("README.md", "")
 
@@ -44,3 +45,5 @@ for path in all_paths:
                 outfile.write(infile.read())
 
     os.remove(path_root + "body.html")
+
+    print("✅ ")

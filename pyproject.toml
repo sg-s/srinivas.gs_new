@@ -6,7 +6,7 @@ line-length = 79
 [tool.poetry]
 name = "srinivas-gs"
 version = "23.5.19"
-description = "My website"
+description = "Website of Srinivas Gorur-Shandilya"
 authors = ["Srinivas Gorur-Shandilya <code@srinivas.gs>"]
 readme = "README.md"
 packages = [{include = "src"}]
@@ -14,9 +14,20 @@ packages = [{include = "src"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 Markdown = "^3.4.3"
+ipykernel = "*"
+jinja2 = "*"
+marko = ">=2.0.0"
+urllib3 = ">=2.0.3"
+pywebcopy = ">=7.0.2"
+beartype = ">=0.15.0"
 
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
+
+
+
+[tool.poetry.scripts]
+make = "src:make"

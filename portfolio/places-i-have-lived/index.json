@@ -1,0 +1,100 @@
+{
+    "template": "card-image",
+    "title": "Places I have lived",
+    "stylesheet": "../../css/star-bs.css",
+    "lead_paragraph": "I've moved around a lot. Here is a list of some of the places I have lived in, for a year or more, in approximately chronological order. These maps were created using [Open Street Map](https://www.openstreetmap.org/) data using the excellent [pretty maps](https://github.com/marceloprates/prettymaps) package.\n\n ",
+    "footer_text": "Arlington<br>Summer 2023",
+    "items": [
+        {
+            "img": "../../assets/places/birthplace.png",
+            "text": "A small hospital town where my parents worked. ",
+            "title": "Where I was born",
+            "footer_text": "You can see the structure imposed by the hospital on the road network."
+        },
+        {
+            "img": "../../assets/places/wilderness-1.png",
+            "text": "The first of a series of small villages that I have no memory of, only a photograph or two with faded inscriptions on the back.",
+            "title": "The Wilderness Years: Part 1"
+        },
+        {
+            "img": "../../assets/places/wilderness-2.png",
+            "text": "Sometimes these maps look like they're empty because these places are so isolated that there aren't any maps of them.",
+            "title": "The Wilderness Years: Part 2"
+        },
+        {
+            "img": "../../assets/places/mountains.png",
+            "text": "And sometimes they look like they're empty because there was nothing. Just our house in the middle of the mountains, with a steep road to get to it, and endless wilderness beyond.",
+            "footer_text": "I'd like to think that the only building on this map was my house",
+            "title": "The Mountains"
+        },
+        {
+            "img": "../../assets/places/hospital.png",
+            "text": "After a while in the wilderness it was decided that I needed an education so we moved to the City where we lived on a hospital campus. ",
+            "footer_text": "What strikes me now is how I lived in a place of relative openess surrounded by the denseness of the city.",
+            "title": "The Hospital"
+        },
+        {
+            "img": "../../assets/places/iisc.png",
+            "text": "Yet another campus institution in the middle of a dense city. I could only hear birds and the desultory strolling of students from my house, while outside the walls traffic roared and heat radiated from the granite pavements.",
+            "title": "The Science Institute"
+        },
+        {
+            "img": "../../assets/places/ssc.png",
+            "text": "Where I lived for three years for College. A beautiful building, and yet another walled and fortified oasis of calm keeping the city at bay. ",
+            "footer_text": "The great green area is the Delhi Ridge, what was once a green belt that ringed the city.",
+            "title": "College"
+        },
+        {
+            "img": "../../assets/places/germany_1.png",
+            "text": "I lived for a year in student housing in Göttingen, where everything was strange and alien. The University buildings and area is clearly visible with open green spaces and straight lines.",
+            "title": "Göttingen"
+        },
+        {
+            "img": "../../assets/places/germany_2.png",
+            "text": "After the first year I moved out of student housing into an apartment. You can see the dense core of the old city here.",
+            "title": "Göttingen: Part 2"
+        },
+        {
+            "img": "../../assets/places/hgs.png",
+            "text": "One of the things I liked about my student housing at Yale was the fact that it looked old. It wasn't actually, but I'm glad they made the effort.",
+            "title": "The Hall of Graduate Studies",
+            "footer_text": "You can clearly see the campus of Yale University here"
+        },
+        {
+            "img": "../../assets/places/new-haven-1.png",
+            "text": "After my first year I moved out of student housing, into an apartment that I shared with three other people. It was big, it was filled with people, and I lived there for three years.",
+            "title": "The first real apartment",
+            "footer_text": "Really, this is a different map. I didn't move far."
+        },
+        {
+            "img": "../../assets/places/new-haven-2.png",
+            "text": "People tend to move around when you're a student. We moved to another apartment, owned by a chiropractor, that was lovely and beautiful and filled with light. It was also infested with mice.",
+            "title": "My favorite apartment",
+            "footer_text": "Again, I didn't move very far. This is the East Rock neighbourhood of New Haven"
+        },
+        {
+            "img": "../../assets/places/new-haven-3.png",
+            "text": "I was on year 6 of my PhD. I'm going to be done in a few months, I thought foolishly. So I didn't think too hard about this place, where I eventually spent an entire year.",
+            "title": "The attic",
+            "footer_text": "Moving higher up East Rock. You can see the area of the Rock itself in green above the Mill River. "
+        },
+        {
+            "img": "../../assets/places/waltham.png",
+            "text": "Finding an apartment in Waltham, Massachusetts was incredibly difficult. It took weeks before we came to terms with the fact that *we weren't the right sort of people*. This was the only place we could find, and we couldn't complain about the smell of dog in the kitchen, or the rats in the walls.",
+            "title": "The brown box",
+            "footer_text": "This is downtown Waltham, with the Charles River curving around, and the campus of Brandeis University on the left"
+        },
+        {
+            "img": "../../assets/places/cambridge.png",
+            "text": "We moved to Cambridge thinking that it would be great to live in the city and do fun things in the city. Shortly after that the world ended and we spent several years waiting out the pandemic.",
+            "title": "Cambridge",
+            "footer_text": "The great water body on the left is Fresh Pond, and Harvard is to the right"
+        },
+        {
+            "img": "../../assets/places/arlington.png",
+            "text": "This is where I live now. As you can see from the map, it's in the burbs, but that's as close to the city we can get without selling a kidney.",
+            "title": "Where I live now",
+            "footer_text": "The water body on the left is the Arlington Reservoir. Hard to see but crucial is the Minuteman Bike Trail that connects to the city."
+        }
+    ]
+}

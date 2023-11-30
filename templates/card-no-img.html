@@ -1,0 +1,19 @@
+<div class="col">
+    <div class="card mb-3 shadow-sm {{ card_style }}">
+        <div class="row g-0">
+            {% if header %}
+                <div class="card-header">{{ header }}</div>
+            {% endif %}
+
+            <div class="card-body">
+
+                
+
+                <h5 class="card-title">{{ card_title }}</h5>
+                <h6 class="card-subtitle mb-2 text-black-50">{{ card_subtitle }}</h6>
+                <p class="card-text">{{ card_text }} </p>
+                <a href="{{ card_link }}" class="card-link">link</a>
+            </div>
+        </div>
+    </div>
+</div>

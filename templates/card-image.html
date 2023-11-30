@@ -1,0 +1,14 @@
+<div class="col">
+    <div class="card mx-2 shadow-sm">
+        <img src="{{ img }}" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">{{ title }}</h5>
+            <p class="card-text">{{ text }} </p>
+        </div>
+        {% if footer_text %}
+            <div class="card-footer text-body-secondary">
+                {{ footer_text }}
+            </div>
+        {% endif %}
+    </div>
+</div>

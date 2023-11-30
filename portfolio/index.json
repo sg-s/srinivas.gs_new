@@ -1,0 +1,90 @@
+{
+    "template": "card-img-left-badges",
+    "title": "Portfolio",
+    "lead_paragraph": "I like making things. Most things never see the light of day, but here are a few things that have both made it across the finish line and are not private.",
+    "footer_text": "Arlington<br>Summer 2023",
+    "stylesheet": "../css/star-bs.css",
+    "items": [
+        {
+            "img": "../assets/X.png",
+            "text": "The xolotl neuron and network simulator combines the speed of C++ code with the interactivity and easy of use of MATLAB. ",
+            "title": "The xolotl simulator",
+            "badges": ["C++","simulator","ODE","neuroscience"],
+            "link": "https://xolotl.readthedocs.io/en/master/"
+        },
+        {
+            "img": "../assets/stg-embedding.png",
+            "text": "The xolotl neuron and network simulator combines the speed of C++ code with the interactivity and easy of use of MATLAB. ",
+            "title": "Embedding of neural dynamics",
+            "badges": ["t-SNE","dimensionality-reduction","feature-engineering","neuroscience"],
+            "link":  "../stg/index.html"
+        },
+        {
+            "img": "../assets/stg-embedding.png",
+            "text": "A web-based interactive simulator that helps you understand your decision to do a PhD, and what it means for your financial well-being ",
+            "title": "PhD or PhDon't?",
+            "badges": ["streamlit","dimensionality-reduction","feature-engineering","neuroscience"],
+            "footer_text": "under construction"
+        },
+        {
+            "img": "../assets/pyvocab.png",
+            "text": "A small vocabulary builder you can play with in the browser ",
+            "title": "pyvocab",
+            "badges": ["streamlit","python"],
+            "link": "../apps/vocab/index.html"
+        },
+        {
+            "img": "../assets/mealcycle.png",
+            "text": "Don't know what to cook next? This little app cycles through your meals, so that you don't make the same thing over and over again.",
+            "title": "mealcycle",
+            "badges": ["streamlit","python"],
+            "link": "../apps/mealcycle/index.html",
+            "footer_text": "under construction"
+        },
+        {
+            "img": "../assets/places/cambridge.png",
+            "text": "A visualization of the places I have lived. Maps stripped of text and legends, just lines on a plane.",
+            "title": "Places I have lived",
+            "badges": ["prettymaps","python"],
+            "link": "./places-i-have-lived/index.html"
+        },
+        {
+            "img": "../assets/money.png",
+            "text": "The scale of the wealth of oligarchs is truly astronomical. A visualization to help come to terms with this.",
+            "title": "The astronomical wealth of oligarchs",
+            "badges": ["bokeh","python"],
+            "link": "./oligarch-wealth/index.html",
+            "footer_text": "under construction"
+        },
+        {
+            "img": "../assets/money.png",
+            "text": "Spike sorting of extracellular recordings, specially tuned for recordings from the Stomatogastic Ganglion of crabs and lobsters",
+            "title": "crabsort",
+            "badges": ["MATLAB","neural networks","spike sorting","active learning"],
+            "link": "./oligarch-wealth/index.html",
+            "footer_text": "under construction"
+        },
+        {
+            "img": "../assets/money.png",
+            "text": "A fully static Netflix-like home media server for your media collection",
+            "title": "uflix",
+            "badges": ["python","TMDB"],
+            "link": "./oligarch-wealth/index.html",
+            "footer_text": "under construction"
+        },
+        {
+            "img": "../assets/money.png",
+            "text": "A MATLAB wrapper to talk to TD Ameritrade's Public API",
+            "title": "TDAmeritrade MATLAB API",
+            "badges": ["MATLAB","TD Ameritrade","finance"],
+            "link": "https://github.com/sg-s/tdameritrade-matlab-api"
+        },
+        {
+            "img": "../assets/money.png",
+            "text": "A MATLAB wrapper to talk to TD Ameritrade's Public API",
+            "title": "curlmex",
+            "badges": ["MATLAB","cURL","C"],
+            "link": "https://github.com/sg-s/curlmex"
+        }
+  ]
+}
