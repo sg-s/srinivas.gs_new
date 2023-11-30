@@ -1,5 +1,7 @@
 
 
+repo=$(shell basename $(CURDIR))
+
 .PHONY: build
 
 install: 
@@ -8,6 +10,7 @@ install:
 
 build: install
 	poetry run python src/render_readmes.py
+	poetry run python src/make_lists_from_json.py
 
 
 python:
@@ -20,6 +23,6 @@ youtube:
 
 
 jupyter:
-	@echo "Installing kernel <site> in jupyter"
-	-yes | jupyter kernelspec uninstall site
-	poetry run python -m ipykernel install --user --name site
+	@echo "Installing kernel  $(repo) in jupyter"
+	-yes | jupyter kernelspec uninstall $(repo)
+	poetry run python -m ipykernel install --user --name $(repo)
