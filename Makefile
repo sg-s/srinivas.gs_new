@@ -2,8 +2,12 @@
 
 .PHONY: build
 
-build:
-	poetry run python src/make.py
+install: 
+	@echo "Installing srinivas.gs..."
+	@bash install.sh
+
+build: install
+	poetry run python src/render_readmes.py
 
 
 python:

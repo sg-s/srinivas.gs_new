@@ -38,7 +38,8 @@
             "text": "Don't know what to cook next? This little app cycles through your meals, so that you don't make the same thing over and over again.",
             "title": "mealcycle",
             "badges": ["streamlit","python"],
-            "link": "../apps/mealcycle/index.html"
+            "link": "../apps/mealcycle/index.html",
+            "footer_text": "under construction"
         },
         {
             "img": "../assets/places/cambridge.png",
@@ -52,7 +53,38 @@
             "text": "The scale of the wealth of oligarchs is truly astronomical. A visualization to help come to terms with this.",
             "title": "The astronomical wealth of oligarchs",
             "badges": ["bokeh","python"],
-            "link": "./oligarch-wealth/index.html"
+            "link": "./oligarch-wealth/index.html",
+            "footer_text": "under construction"
+        },
+        {
+            "img": "../assets/money.png",
+            "text": "Spike sorting of extracellular recordings, specially tuned for recordings from the Stomatogastic Ganglion of crabs and lobsters",
+            "title": "crabsort",
+            "badges": ["MATLAB","neural networks","spike sorting","active learning"],
+            "link": "./oligarch-wealth/index.html",
+            "footer_text": "under construction"
+        },
+        {
+            "img": "../assets/money.png",
+            "text": "A fully static Netflix-like home media server for your media collection",
+            "title": "uflix",
+            "badges": ["python","TMDB"],
+            "link": "./oligarch-wealth/index.html",
+            "footer_text": "under construction"
+        },
+        {
+            "img": "../assets/money.png",
+            "text": "A MATLAB wrapper to talk to TD Ameritrade's Public API",
+            "title": "TDAmeritrade MATLAB API",
+            "badges": ["MATLAB","TD Ameritrade","finance"],
+            "link": "https://github.com/sg-s/tdameritrade-matlab-api"
+        },
+        {
+            "img": "../assets/money.png",
+            "text": "A MATLAB wrapper to talk to TD Ameritrade's Public API",
+            "title": "curlmex",
+            "badges": ["MATLAB","cURL","C"],
+            "link": "https://github.com/sg-s/curlmex"
         }
   ]
 }

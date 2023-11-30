@@ -1,6 +1,7 @@
 # python stuff
 *.pyc
 poetry.lock
+places.ipynb
 **__pycache__**
 
 *.key
