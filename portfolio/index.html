@@ -7,14 +7,13 @@
     <title>Portfolio</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
     <style>
-    @media (min-width: 1200px) {
+        @media (min-width: 1200px) {
         .container {
             max-width: 1000px;
         }
     }
     </style>
     <link rel="stylesheet" href="../css/star-bs.css">
-    <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -27,15 +26,11 @@
         </div>
         <br>
         <br>
-        
     </div>
     <div class="container my-2">
-
-         <div class="w-50 mx-auto">
-        <p class="lead">I like making things. Most things never see the light of day, but here are a few things that have both made it across the finish line and are not private.</p>
+        <div class="w-50 mx-auto">
+            <p class="lead">I like making things. Most things never see the light of day, but here are a few things that have both made it across the finish line and are not private.</p>
         </div>
- 
-
         <div class="row row-cols-1 row-cols-md-2 g-4" data-masonry="{&quot;percentPosition&quot;: true }">
             
             <div class="col">
@@ -420,14 +415,28 @@
         </div>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
     </div>
-
-
     <div id="footer">
         <p>&#9733;<br>
             Arlington<br>Summer 2023</p>
     </div>
+    <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous"></script>
+    <script src='https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.js'></script>
 
 
+    <!-- this incredibly hacky thing is to reload the page once,
+    so that we don't have awful masonry rendering issues -->
+    <script type='text/javascript'>
+    (function() {
+        if (window.localStorage) {
+            if (!localStorage.getItem('firstLoad')) {
+                localStorage['firstLoad'] = true;
+                window.location.reload();
+            } else
+                localStorage.removeItem('firstLoad');
+        }
+    })();
+    await new Promise(r => setTimeout(r, 200));
+    </script>
 </body>
 
 </html>

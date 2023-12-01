@@ -15,7 +15,8 @@ repo_root = Path(__file__).parent.parent
 
 @beartype
 def _get_template(name: str) -> jinja2.environment.Template:
-    template_dir = "/Users/srinivas/code/srinivas.gs/templates"
+    """helper function to get a tempalte from a file"""
+    template_dir = os.path.join(repo_root, "templates")
 
     template_file = os.path.join(template_dir, name + ".html")
 

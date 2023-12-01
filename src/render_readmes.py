@@ -1,5 +1,5 @@
-# this script finds all readme.md files in this repo,
-# and converts them into HTML files for display
+""" this script finds all readme.md files in this repo,
+and converts them into HTML files for display"""
 
 import codecs
 import os

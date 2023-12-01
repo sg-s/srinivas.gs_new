@@ -13,13 +13,14 @@
         },
         {
             "img": "../../assets/places/wilderness-1.png",
-            "text": "The first of a series of small villages that I have no memory of, only a photograph or two with faded inscriptions on the back.",
+            "text": "The first of a series of small villages that I have no memory of, only a photograph or two with faded inscriptions on the back. I know I lived somewhere here, but I couldn't tell you where. Or when.",
             "title": "The Wilderness Years: Part 1"
         },
         {
             "img": "../../assets/places/wilderness-2.png",
-            "text": "Sometimes these maps look like they're empty because these places are so isolated that there aren't any maps of them.",
-            "title": "The Wilderness Years: Part 2"
+            "text": "Sometimes these maps look like they're empty because these places are so isolated that there aren't any maps of them. They are in a curious way representative of the blankness in my mind. I know I lived there, this is a fact; but there is no memory to recall, only a blank space where there should be things.",
+            "title": "The Wilderness Years: Part 2",
+             "footer_text": "Of course, it could be that OpenStreetMap is missing information here. 🤷"
         },
         {
             "img": "../../assets/places/mountains.png",
@@ -28,15 +29,21 @@
             "title": "The Mountains"
         },
         {
+            "img": "../../assets/places/iisc.png",
+            "text": "Yet another campus institution in the middle of a dense city. I could only hear birds and the desultory strolling of students from my house, while outside the walls traffic roared and heat radiated from the granite pavements.",
+            "title": "The Science Institute"
+        },
+        {
             "img": "../../assets/places/hospital.png",
             "text": "After a while in the wilderness it was decided that I needed an education so we moved to the City where we lived on a hospital campus. ",
             "footer_text": "What strikes me now is how I lived in a place of relative openess surrounded by the denseness of the city.",
             "title": "The Hospital"
         },
+        
         {
-            "img": "../../assets/places/iisc.png",
-            "text": "Yet another campus institution in the middle of a dense city. I could only hear birds and the desultory strolling of students from my house, while outside the walls traffic roared and heat radiated from the granite pavements.",
-            "title": "The Science Institute"
+            "img": "../../assets/places/germany_1.png",
+            "text": "I lived for a year in student housing in Göttingen, where everything was strange and alien. The University buildings and area is clearly visible with open green spaces and straight lines.",
+            "title": "Göttingen"
         },
         {
             "img": "../../assets/places/ssc.png",
@@ -44,21 +51,17 @@
             "footer_text": "The great green area is the Delhi Ridge, what was once a green belt that ringed the city.",
             "title": "College"
         },
-        {
-            "img": "../../assets/places/germany_1.png",
-            "text": "I lived for a year in student housing in Göttingen, where everything was strange and alien. The University buildings and area is clearly visible with open green spaces and straight lines.",
-            "title": "Göttingen"
-        },
-        {
-            "img": "../../assets/places/germany_2.png",
-            "text": "After the first year I moved out of student housing into an apartment. You can see the dense core of the old city here.",
-            "title": "Göttingen: Part 2"
-        },
+        
         {
             "img": "../../assets/places/hgs.png",
             "text": "One of the things I liked about my student housing at Yale was the fact that it looked old. It wasn't actually, but I'm glad they made the effort.",
             "title": "The Hall of Graduate Studies",
             "footer_text": "You can clearly see the campus of Yale University here"
+        },
+        {
+            "img": "../../assets/places/germany_2.png",
+            "text": "After the first year I moved out of student housing into an apartment. You can see the dense core of the old city here.",
+            "title": "Göttingen: Part 2"
         },
         {
             "img": "../../assets/places/new-haven-1.png",
