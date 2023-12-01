@@ -44,16 +44,21 @@
     </div>
     <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous"></script>
     <script src='https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.js'></script>
-    <script type="text/javascript">
-    var $grid = $('.grid').masonry({
-        itemSelector: '.grid-item',
-        percentPosition: true,
-        columnWidth: '.grid-sizer'
-    });
-    // layout Masonry after each image loads
-    $grid.imagesLoaded().progress(function() {
-        $grid.masonry();
-    });
+
+
+    <!-- this incredibly hacky thing is to reload the page once,
+    so that we don't have awful masonry rendering issues -->
+    <script type='text/javascript'>
+    (function() {
+        if (window.localStorage) {
+            if (!localStorage.getItem('firstLoad')) {
+                localStorage['firstLoad'] = true;
+                window.location.reload();
+            } else
+                localStorage.removeItem('firstLoad');
+        }
+    })();
+    await new Promise(r => setTimeout(r, 200));
     </script>
 </body>
 
