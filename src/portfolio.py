@@ -71,6 +71,7 @@ items = [
 
 
 def make():
+    """makes portfolio page"""
     cards = []
 
     for title, img_src, text, badges, link in items:
