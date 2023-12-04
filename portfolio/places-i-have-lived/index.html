@@ -14,6 +14,8 @@
     }
     </style>
     <link rel="stylesheet" href="../../css/star-bs.css">
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+    <script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
 </head>
 
 <body>
@@ -30,9 +32,9 @@
     <div class="container my-2">
         <div class="w-50 mx-auto">
             <p class="lead"><p>I've moved around a lot. Here is a list of some of the places I have lived in, for a year or more, in approximately chronological order. These maps were created using <a href="https://www.openstreetmap.org/">Open Street Map</a> data using the excellent <a href="https://github.com/marceloprates/prettymaps">pretty maps</a> package.</p>
-</p>
+<br><br></p>
         </div>
-        <div class="row row-cols-1 row-cols-md-2 g-4" data-masonry="{&quot;percentPosition&quot;: true }">
+        <div class="row row-cols-1 row-cols-md-2 g-4">
             
             <div class="col">
     <div class="card mx-2 shadow-sm">
@@ -103,6 +105,10 @@
  </p>
         </div>
         
+            <div class="card-footer text-body-secondary">
+                The big green region on the map is where I lurked in for a happy summer, taking pictures of spiders. <a href = "http://srinivas.gs/photography/spiders/">You can see some of these pictures here.</a>
+            </div>
+        
     </div>
 </div>
             
@@ -131,6 +137,10 @@
  </p>
         </div>
         
+            <div class="card-footer text-body-secondary">
+                Pictures of Göttingen (and Germany) <a href = "http://srinivas.gs/photography/germany/ ">here.</a>
+            </div>
+        
     </div>
 </div>
             
@@ -144,7 +154,7 @@
         </div>
         
             <div class="card-footer text-body-secondary">
-                The great green area is the Delhi Ridge, what was once a green belt that ringed the city.
+                The great green area is the Delhi Ridge, what was once a green belt that ringed the city. Beyond the little bubble of College, of course, was the great tangled mess of Delhi, of which you can see some pictures <a href = "http://srinivas.gs/photography/delhi/ ">here.</a>
             </div>
         
     </div>
@@ -281,24 +291,23 @@
         <p>&#9733;<br>
             Arlington<br>Summer 2023</p>
     </div>
-    <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous"></script>
-    <script src='https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.js'></script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
 
 
-    <!-- this incredibly hacky thing is to reload the page once,
-    so that we don't have awful masonry rendering issues -->
-    <script type='text/javascript'>
-    (function() {
-        if (window.localStorage) {
-            if (!localStorage.getItem('firstLoad')) {
-                localStorage['firstLoad'] = true;
-                window.location.reload();
-            } else
-                localStorage.removeItem('firstLoad');
-        }
-    })();
-    await new Promise(r => setTimeout(r, 200));
-    </script>
+        <script type="text/javascript">
+            var elem = document.querySelector('.row');
+            var msnry = new Masonry( elem, {
+              // options
+              itemSelector: '.col',
+              columnWidth: 20
+            });
+
+            imagesLoaded( elem ).on( 'progress', function() {
+              // layout Masonry after each image loads
+              msnry.layout();
+            });
+        </script>
 </body>
 
 </html>
