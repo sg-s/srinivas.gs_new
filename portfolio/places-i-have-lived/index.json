@@ -31,7 +31,8 @@
         {
             "img": "../../assets/places/iisc.png",
             "text": "Yet another campus institution in the middle of a dense city. I could only hear birds and the desultory strolling of students from my house, while outside the walls traffic roared and heat radiated from the granite pavements.",
-            "title": "The Science Institute"
+            "title": "The Science Institute",
+            "footer_text": "The big green region on the map is where I lurked in for a happy summer, taking pictures of spiders. <a href = \"http://srinivas.gs/photography/spiders/\">You can see some of these pictures here.</a>"
         },
         {
             "img": "../../assets/places/hospital.png",
@@ -43,12 +44,13 @@
         {
             "img": "../../assets/places/germany_1.png",
             "text": "I lived for a year in student housing in Göttingen, where everything was strange and alien. The University buildings and area is clearly visible with open green spaces and straight lines.",
-            "title": "Göttingen"
+            "title": "Göttingen",
+            "footer_text": "Pictures of Göttingen (and Germany) <a href = \"http://srinivas.gs/photography/germany/ \">here.</a>"
         },
         {
             "img": "../../assets/places/ssc.png",
             "text": "Where I lived for three years for College. A beautiful building, and yet another walled and fortified oasis of calm keeping the city at bay. ",
-            "footer_text": "The great green area is the Delhi Ridge, what was once a green belt that ringed the city.",
+            "footer_text": "The great green area is the Delhi Ridge, what was once a green belt that ringed the city. Beyond the little bubble of College, of course, was the great tangled mess of Delhi, of which you can see some pictures <a href = \"http://srinivas.gs/photography/delhi/ \">here.</a>",
             "title": "College"
         },
         
