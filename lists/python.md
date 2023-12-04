@@ -1,17 +1,5 @@
-# My python reading list
-
-This list contains things I have read about python that
-I found to be vaguely useful.
 
 
-
-
-## [Python Magic Methods You Haven't Heard About](https://martinheinz.dev/blog/87)
-
-When I read this the first time I certainly learnt a thing or two. 
-
-
-## [Brandon Rhodes' PyCon Pandas tutorial](https://github.com/brandon-rhodes/pycon-pandas-tutorial)
 
 Like almost anything from Brandon Rhodes, this is great. 
 

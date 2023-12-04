@@ -43,7 +43,9 @@ def json_to_html(json_file_loc: str) -> None:
 
     items = []
     for item in data["items"]:
-        item["text"] = marko.convert(item["text"])
+        # convert text items to markdown
+        if "text" in item.keys():
+            item["text"] = marko.convert(item["text"])
 
         template = _get_template(data["template"])
 

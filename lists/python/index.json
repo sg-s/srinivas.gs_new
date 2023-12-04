@@ -1,0 +1,19 @@
+{
+    "template": "card-no-img",
+    "title": "My python reading list",
+    "stylesheet": "../../css/star-bs.css",
+    "lead_paragraph": "This list contains things I have read about python that I found to be vaguely useful.",
+    "footer_text": "Arlington<br>Winter 2023",
+    "items": [
+        {
+            "title": "Python Magic Methods You Haven't Heard About",
+            "link": "https://martinheinz.dev/blog/87",
+            "text": "When I read this the first time I certainly learnt a thing or two."
+        
+        },
+        {
+            "title": "Brandon Rhodes' PyCon Pandas tutorial",
+            "link": "https://github.com/brandon-rhodes/pycon-pandas-tutorial"
+        }
+    ]
+}
