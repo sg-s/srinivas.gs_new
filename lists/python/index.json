@@ -1,19 +1,82 @@
 {
+    "footer_text": "Arlington<br>Winter 2023",
+    "lead_paragraph": "This list contains things I have read about python that I found to be vaguely useful.",
+    "stylesheet": "../../css/star-bs.css",
     "template": "card-no-img",
     "title": "My python reading list",
-    "stylesheet": "../../css/star-bs.css",
-    "lead_paragraph": "This list contains things I have read about python that I found to be vaguely useful.",
-    "footer_text": "Arlington<br>Winter 2023",
     "items": [
         {
-            "title": "Python Magic Methods You Haven't Heard About",
             "link": "https://martinheinz.dev/blog/87",
-            "text": "When I read this the first time I certainly learnt a thing or two."
-        
+            "text": "When I read this the first time I certainly learnt a thing or two.",
+            "title": "Python Magic Methods You Haven't Heard About"
         },
         {
-            "title": "Brandon Rhodes' PyCon Pandas tutorial",
-            "link": "https://github.com/brandon-rhodes/pycon-pandas-tutorial"
+            "link": "https://github.com/brandon-rhodes/pycon-pandas-tutorial",
+            "text": "Like almost anything from Brandon Rhodes, this is great. ",
+            "title": "Brandon Rhodes' PyCon Pandas tutorial"
+        },
+        {
+            "link": "https://python-patterns.guide/",
+            "text": "An absolutely useful reference for design patterns in python by Brandon Rhodes.  ",
+            "title": "Python Design Patterns"
+        },
+        {
+            "link": "https://kevinheavey.github.io/modern-polars/",
+            "text": "An introduction to Polars and a comparison with Pandas. I've never liked Pandas and always found it confusing and un-intuitive. ",
+            "title": "Modern Polars"
+        },
+        {
+            "link": "https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html",
+            "text": "Uncle Bob's clean architecture<sup>™️</sup>. ",
+            "title": "The Clean Architecture"
+        },
+        {
+            "link": "https://sourcery.ai/blog/concurrency/",
+            "text": "A somewhat useful introduction to concurrency in python. ",
+            "title": "Making lunch faster with Python concurrency"
+        },
+        {
+            "link": "https://death.andgravity.com/stdlib",
+            "text": "Someone who advocates for reading python's standard library to understand it. ",
+            "title": "Learn by reading code: Python standard library design decisions explained"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=MCs5OvhV9S4",
+            "text": "There are currently three popular approaches to Python concurrency: threads, event loops, and coroutines. Each is shrouded by various degrees of mystery and peril.  In this talk, all three approaches will be deconstructed and explained in a epic ground-up live coding battle",
+            "title": "Python Concurrency From the Ground Up"
+        },
+        {
+            "link": "https://www.assertnotmagic.com/2018/06/30/python-startup-file/",
+            "text": "I didn't know about any of this when I read it. ",
+            "title": "Python Has a Startup File!",
+
+        },
+        {
+            "link": "https://snarky.ca/why-python-3-exists/",
+            "text": "TLDR: it's unicode.",
+            "title": "Why Python 3 exists"
+        },
+        {
+            "link": "http://www2.imm.dtu.dk/courses/02161/2018/files/how_to_write_unmaintainable_code.pdf",
+            "style": "important",
+            "text": "Absolutely essential reading (with tongue firmly in cheek) for those who want to write code that will make them unfireable.",
+            "title": "How to write unmaintainable code"
+        },
+        {
+            "link": "https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html",
+            "text": "Describes the clean architecture for separating interfaces, and core logic. ",
+            "title": "The Grand Unified Theory of Software Architecture"
+        },
+        {
+            "link": "https://gto76.github.io/python-cheatsheet/",
+            "text": "A useful reference to come back to",
+            "title": "Comprehensive Python Cheatsheet"
+        },
+        {
+            "link": "https://beartype.readthedocs.io/en/latest/",
+            "style": "important",
+            "text": "The documentation for beartype is...wild. It's certainly not for everyone but I love it. It's detailed, informative, and so much _fun_ to read.",
+            "title": "Beartype docs"
         }
     ]
 }
