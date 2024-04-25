@@ -6,17 +6,9 @@
 
 
 
-## an old nursery rhyme 
+## An old nursery rhyme 
 
-> They hang the man and flog the woman 
-> That steal the goose from off the common,
-> But let the greater villain loose
-> That steals the common from the goose.
-> 
-> The law demands that we atone
-> When we take things we do not own, 
-> But leaves the lords and ladies fine
-> Who take things that are yours and mine.
+> They hang the man and flog the woman <br> That steal the goose from off the common, <br> But let the greater villain loose <br> That steals the common from the goose. <br> The law demands that we atone <br> When we take things we do not own, <br> But leaves the lords and ladies fine <br> Who take things that are yours and mine.
 
 
 <div class = "sidenote leftnote"><img src ="ali.jpg"></img></div>  
