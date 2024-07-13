@@ -18,6 +18,11 @@
 > My conscience won't let me go shoot my brother, or some darker people, or some poor hungry people in the mud for big powerful America. And shoot them for what? They never called me nigger, they never lynched me, they didn't put no dogs on me, they didn't rob me of my nationality, rape and kill my mother and father ... shoot them for what? How can I shoot them poor people? Just take me to jail.
 
 
+## Hannah Arendt
+
+> In their moral justification, the argument of the lesser evil has played a prominent role. If you are confronted with two evils, the argument runs, it is your duty to opt for the lesser one, whereas it is irresponsible to refuse to choose altogether. Its weakness has always been that those who choose the lesser evil forget quickly that they chose evil.
+
+
 <div class = "sidenote leftnote"><img src ="asimov.jpg"></img></div>  
 ## Isaac Asimov
 <div class = "sidenote">A riff off Samuel Johnson's more famous comment.</div>
