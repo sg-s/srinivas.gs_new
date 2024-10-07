@@ -297,6 +297,12 @@ This world in arms is not spending money alone. It is spending the sweat of its 
 
 <div class = "sidenote leftnote"><img src ="greene.jpg"></img></div> 
 
+
+## David Graeber
+> The 'middle-class' is a faux class. It never really existed.
+If you have a boss, and earn wages or salary, you are a worker, and should be proud to be in the working class. The term 'middle class' isolates more privileged workers for the benefit of the powerful so that anyone outside of elite circles will be divided and fighting against each other instead of fighting institutions and the power structure.
+
+
 ## Graham Greene 
 *The Quiet American*
 > Sooner or later...one has to take sides – if one is to remain human. 
