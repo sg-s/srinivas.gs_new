@@ -121,6 +121,9 @@ Rather, courage is the intellectual mastery of fear by understanding the true ri
 > The boys of Capital, they also chortle in their martinis about the death of socialism. The word has been banned from polite conversation. And they hope no one will notice that every socialist experiment of any significance in the twentieth century — without exception — was either overthrown, invaded, corrupted, perverted, subverted, destabilized, or otherwise had life made impossible for it, by the United States and its allies. Not one socialist government or movement — from the Russian Revolution to the Sandinistas in Nicaragua, from Communist China to the FMLN in El Salvador — not one was permitted to rise or fall solely on its own merits; not one was left secure enough to drop its guard against the all-powerful enemy abroad and freely and fully relax control at home. It’s as if the Wright brothers’ first experiments with flying machines all failed because the automobile interests sabotaged each test flight. And then the good and god-fearing folk of the world looked upon these catastrophes, nodded their heads wisely, and intoned solemnly: Humankind shall never fly.
 
 
+## Murray Bookchun
+> The assumption that what currently exists must necessarily exist is the acid that corrodes all visionary thinking.
+
 ## Albert Camus
 > In the midst of hate, I found there was, within me, an invincible love.
 In the midst of tears, I found there was, within me, an invincible smile.
