@@ -445,6 +445,11 @@ If you have a boss, and earn wages or salary, you are a worker, and should be pr
 >
 > But the thing was that good boots lasted for years and years. A man who could afford fifty dollars had a pair of boots that'd still be keeping his feet dry in ten years' time, while the poor man who could only afford cheap boots would have spent a hundred dollars on boots in the same time and would **still have wet feet**.
 
+
+## Julius Nyerere
+*[Quoted by Radhika Desai](https://en.wikiquote.org/wiki/Julius_Nyerere)*
+> The United States is also a one-party state, but with typical American extravagance, they have two of them.
+
 <div class = "sidenote leftnote"><img src ="roy.jpg"></img></div> 
 
 ## Arundhati Roy
